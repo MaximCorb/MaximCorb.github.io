@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Stripe</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<h1>Dashboard Veille Stripe</h1>
+
+<canvas id="chart"></canvas>
+
+<script>
+async function load() {
+  const res = await fetch('data/veille.json');
+  const data = await res.json();
+
+  const labels = data.comparaison.map(x => x.nom);
+  const stars = data.comparaison.map(x => x.stars);
+
+  new Chart(document.getElementById('chart'), {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [{
+        label: 'Stars GitHub',
+        data: stars
+      }]
+    }
+  });
+}
+
+load();
+</script>
+
+</body>
+</html>
