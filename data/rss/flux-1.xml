@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Stripe Blog</title>
+    <link>https://stripe.com/blog</link>
+    <description>The Stripe Blog</description>
+    <item>
+      <title>Insights from Shoptalk 2026: How agents are changing retail</title>
+      <link>https://stripe.com/blog/shoptalk-2026</link>
+      <description>Retailers know search and discovery have already shifted. What comes next is less settled. From embedded checkout to emerging third-party surfaces, here’s how ecommerce and AI leaders are integrating agentic commerce.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5aI5xOfce2H0wZlLKZzIgv/02ddf4d2c099f39d2a63c70e5e794195/3_agentic_trends_-_1500x1500_-_7.png"
+        length="2620073"
+        type="image/png"/>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/shoptalk-2026</guid>
+      <dc:date>2026-04-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>How Stripe Radar helps prevent free trial abuse</title>
+      <link>https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse</link>
+      <description>Radar now helps prevent free trial abuse with just one click. When enabled, Radar predicts the presence of abusive behavior that violates common trial terms, such as repeated trial signup or missed cancellations, with 90% accuracy.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/23lASLziC4DNmD8xdKQHqu/99291ee057701ba5d661881830c72ff7/Radar-index.png"
+        length="708929"
+        type="image/png"/>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse</guid>
+      <dc:date>2026-03-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Three of the biggest fraud trends from MRC Vegas 2026</title>
+      <link>https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026</link>
+      <description>The most sophisticated fraud teams are shifting from one-size-fits-all fraud approaches to more dynamic, tailored interventions. They are removing friction for trusted users, embedding fraud detection directly into agentic transactions, and investing in multilayered identity verification to combat deepfakes. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6EX5VwS3VABCPIi20UrofS/7ce914e20366c183f0fcfa7ae8d8a5ba/MRC-index.png"
+        length="3289829"
+        type="image/png"/>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026</guid>
+      <dc:date>2026-03-20T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Testing the impact of Adaptive Pricing across 1.5M subscription checkout sessions</title>
+      <link>https://stripe.com/blog/adaptive-pricing-for-subscriptions</link>
+      <description>Adaptive Pricing is now available for subscriptions, allowing businesses to automatically localize prices in 150+ countries while Stripe handles currency conversion. In an A/B test across 1.5 million subscription checkouts, businesses saw 4.7% higher conversion and 5.4% higher LTV per session, on average.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6Ee0jsPU0no73KBQtvLZSs/3f8e7c460e2e394b0deb3aba8af00fcc/Blog_Index_2x__1_.png"
+        length="12447384"
+        type="image/png"/>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/adaptive-pricing-for-subscriptions</guid>
+      <dc:date>2026-03-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Introducing the Machine Payments Protocol</title>
+      <link>https://stripe.com/blog/machine-payments-protocol</link>
+      <description>We’re launching the Machine Payments Protocol (MPP), an open standard, internet-native way for agents to pay—co-authored by Tempo and Stripe. Businesses on Stripe can accept payments over MPP in a few lines of code using our PaymentIntents API.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5XnKM1MhctFUry2VRGpdHI/7d68233cb5e62da2b590136c7918a559/MPP-index.png"
+        length="111477"
+        type="image/png"/>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/machine-payments-protocol</guid>
+      <dc:date>2026-03-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>10 things we learned building for the first generation of agentic commerce</title>
+      <link>https://stripe.com/blog/10-lessons</link>
+      <description>A future where we buy with AI agents feels inevitable. Making it actually work is harder. These lessons from the first wave of agentic commerce are meant to help sellers decide what to tackle, avoid common bottlenecks, and get ahead of what’s coming.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3JPDWTTYPpM2YcBISc8vag/7b023bd06d150e886a75df88a73c41d2/Index_preview.png"
+        length="4927029"
+        type="image/png"/>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/10-lessons</guid>
+      <dc:date>2026-03-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Analyzing first-party fraud trends: Account, free trial, and refund abuse</title>
+      <link>https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse</link>
+      <description>From November 2025 to February 2026, our models detected 6.2x more abusive free trials across the Stripe network. This is part of a broader shift toward first-party fraud, where legitimate users abuse policies by setting up multiple accounts, cycling through free trials, or exploiting refunds.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6Q9QOcOKdwnmutUW8UEFOM/0b06bc4a1e35569bf711188f4927e120/fpft-updated-index.png"
+        length="810819"
+        type="image/png"/>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse</guid>
+      <dc:date>2026-03-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Supporting additional payment methods for agentic commerce </title>
+      <link>https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce</link>
+      <description>Stripe is now the first and only provider that supports both agentic network tokens and buy now, pay later tokens in agentic commerce through a single primitive.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/2pBffvdyWZ4iIQ8ehw3kKH/d93634dc4e88f9981292b333f534d04f/index-tokenization-2.png"
+        length="129569"
+        type="image/png"/>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce</guid>
+      <dc:date>2026-03-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Can AI agents build real Stripe integrations? We built a benchmark to find out</title>
+      <link>https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations</link>
+      <description>State-of-the-art LLMs can now solve a majority of scoped coding problems, but it’s an open question whether they can fully autonomously manage software engineering projects. We spent months building evaluation environments to benchmark how well AI agents can create real Stripe integrations.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3eECFWnjwVnp7EForWM9lL/2ab86dd9a7c6b61fe6b7d6b8009f2598/Index-New_2x__1_.png"
+        length="267025"
+        type="image/png"/>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations</guid>
+      <dc:date>2026-03-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Metronome + Stripe: Building the future of billing</title>
+      <link>https://stripe.com/blog/metronome-stripe-building-the-future-of-billing</link>
+      <description>Together, Metronome and Stripe are building the most flexible and complete billing solution on the market—one that works for everyone, from engineers in a garage figuring out their business model to public companies monetizing at global scale.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1YsNaCUP3NfLUTaBrwOzHl/cdd7d3392f309618c260648199ab1151/Metronome_Stripe_blog_index.png"
+        length="2218877"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/metronome-stripe-building-the-future-of-billing</guid>
+      <dc:date>2026-01-23T00:00:00+00:00</dc:date>
+    </item>
+  </channel>
+</rss>
