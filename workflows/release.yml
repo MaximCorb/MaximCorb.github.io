@@ -1,0 +1,23 @@
+name: Surveillance Releases Stripe
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # toutes les 6 heures
+
+jobs:
+  check-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Vérifier la dernière release Stripe
+        id: release
+        run: |
+          curl -s https://api.github.com/repos/stripe/stripe-node/releases/latest > release.json
+          echo "tag=$(jq -r .tag_name release.json)" >> $GITHUB_OUTPUT
+
+      - name: Envoyer message Discord
+        run: |
+          curl -H "Content-Type: application/json" \
+          -X POST \
+          -d "{\"content\": \"💳 Nouvelle release Stripe: ${{ steps.release.outputs.tag }}\"}" \
+          ${{ secrets.DISCORD_WEBHOOK }}
