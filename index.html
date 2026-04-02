@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Dashboard Stripe</title>
+  <title>Dashboard Veille Stripe</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
@@ -15,6 +15,8 @@
 async function load() {
   const res = await fetch('data/veille.json');
   const data = await res.json();
+
+  console.log(data); // IMPORTANT pour debug
 
   const labels = data.comparaison.map(x => x.nom);
   const stars = data.comparaison.map(x => x.stars);
