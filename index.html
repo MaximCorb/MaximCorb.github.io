@@ -13,7 +13,7 @@
 
 <script>
 async function load() {
-  const res = await fetch('data/veille.json');
+  const res = await fetch('/data/veille.json');
   const data = await res.json();
 
   console.log(data); // IMPORTANT pour debug
