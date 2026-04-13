@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>How agents, digital wallets, and trust are rewriting checkout</title>
+      <link>https://stripe.com/blog/global-checkout-trends</link>
+      <description>We analyzed checkout activity across more than 20K businesses, surveyed shoppers and ecommerce leaders, and gathered insights from businesses on the Stripe network to understand what’s changing in online conversion.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/ldkId6Rz1TQvWrVdACbe0/c3c1a161b959d5714171ee73b4e79fcc/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding__1_.png"
+        length="442653"
+        type="image/png"/>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/global-checkout-trends</guid>
+      <dc:date>2026-04-07T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Insights from Shoptalk 2026: How agents are changing retail</title>
       <link>https://stripe.com/blog/shoptalk-2026</link>
       <description>Retailers know search and discovery have already shifted. What comes next is less settled. From embedded checkout to emerging third-party surfaces, here’s how ecommerce and AI leaders are integrating agentic commerce.</description>
@@ -106,17 +117,6 @@
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations</guid>
       <dc:date>2026-03-02T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Metronome + Stripe: Building the future of billing</title>
-      <link>https://stripe.com/blog/metronome-stripe-building-the-future-of-billing</link>
-      <description>Together, Metronome and Stripe are building the most flexible and complete billing solution on the market—one that works for everyone, from engineers in a garage figuring out their business model to public companies monetizing at global scale.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1YsNaCUP3NfLUTaBrwOzHl/cdd7d3392f309618c260648199ab1151/Metronome_Stripe_blog_index.png"
-        length="2218877"
-        type="image/png"/>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/metronome-stripe-building-the-future-of-billing</guid>
-      <dc:date>2026-01-23T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
