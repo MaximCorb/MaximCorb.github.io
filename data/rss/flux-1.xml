@@ -9,6 +9,28 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Everything we announced at Sessions 2026</title>
+      <link>https://stripe.com/blog/everything-we-announced-at-sessions-2026</link>
+      <description>We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5Uq9NEKuVAdSjvGIpsY4wy/ef80210cb8ff35c3a15fb1f2e9123539/updated-blog-index.png"
+        length="20394466"
+        type="image/png"/>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/everything-we-announced-at-sessions-2026</guid>
+      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Giving agents the ability to pay</title>
+      <link>https://stripe.com/blog/giving-agents-the-ability-to-pay</link>
+      <description>Link’s wallet for agents gives agents programmatic access to Link, including the ability to generate a one-time-use card or Shared Payment Token (SPT) backed by the cards and bank accounts already in your wallet. It’s built on Stripe’s new Issuing for agents.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6Q9CknSN2E2Fa6DUi6eWe/798ca5888658b7dd385cfb687dcff08b/LinkAgentWallet_1250x1250.png"
+        length="188385"
+        type="image/png"/>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/giving-agents-the-ability-to-pay</guid>
+      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>How agents, digital wallets, and trust are rewriting checkout</title>
       <link>https://stripe.com/blog/global-checkout-trends</link>
       <description>We analyzed checkout activity across more than 20K businesses, surveyed shoppers and ecommerce leaders, and gathered insights from businesses on the Stripe network to understand what’s changing in online conversion.</description>
@@ -95,28 +117,6 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse</guid>
       <dc:date>2026-03-10T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Supporting additional payment methods for agentic commerce </title>
-      <link>https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce</link>
-      <description>Stripe is now the first and only provider that supports both agentic network tokens and buy now, pay later tokens in agentic commerce through a single primitive.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/2pBffvdyWZ4iIQ8ehw3kKH/d93634dc4e88f9981292b333f534d04f/index-tokenization-2.png"
-        length="129569"
-        type="image/png"/>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce</guid>
-      <dc:date>2026-03-03T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Can AI agents build real Stripe integrations? We built a benchmark to find out</title>
-      <link>https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations</link>
-      <description>State-of-the-art LLMs can now solve a majority of scoped coding problems, but it’s an open question whether they can fully autonomously manage software engineering projects. We spent months building evaluation environments to benchmark how well AI agents can create real Stripe integrations.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3eECFWnjwVnp7EForWM9lL/2ab86dd9a7c6b61fe6b7d6b8009f2598/Index-New_2x__1_.png"
-        length="267025"
-        type="image/png"/>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations</guid>
-      <dc:date>2026-03-02T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>

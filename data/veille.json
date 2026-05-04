@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-04-25T23:07:37Z",
-    "pushed_at": "2026-04-24T18:15:26Z",
+    "updated_at": "2026-05-03T23:32:03Z",
+    "pushed_at": "2026-04-29T18:54:30Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 31729,
-    "stargazers_count": 4392,
-    "watchers_count": 4392,
+    "size": 32302,
+    "stargazers_count": 4403,
+    "watchers_count": 4403,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 893,
+    "forks_count": 894,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 42,
+    "open_issues_count": 43,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 893,
-    "open_issues": 42,
-    "watchers": 4392,
+    "forks": 894,
+    "open_issues": 43,
+    "watchers": 4403,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -136,16 +136,16 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 893,
+    "network_count": 894,
     "subscribers_count": 83
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4392,
-      "forks": 893,
-      "issues": 42
+      "stars": 4403,
+      "forks": 894,
+      "issues": 43
     },
     {
       "nom": "PayPal-PHP-SDK",
@@ -157,14 +157,13 @@
     {
       "nom": "mollie-api-php",
       "repo": "mollie/mollie-api-php",
-      "stars": 599,
-      "forks": 202,
-      "issues": 4
+      "stars": 600,
+      "forks": 201,
+      "issues": 6
     }
   ],
   "commits": {
     "all": [
-      5,
       4,
       0,
       4,
@@ -215,7 +214,8 @@
       9,
       7,
       5,
-      2
+      2,
+      0
     ],
     "owner": [
       0,
@@ -315,6 +315,6 @@
     "body": "This release changes the pinned API version to 2026-04-22.dahlia.\n\n* [#2639](https://github.com/stripe/stripe-node/pull/2639) Update generated code\n  * Add support for `app_distribution` and `sunbit_payments` on `Account.capabilities`, `AccountCreateParams.capabilities`, and `AccountUpdateParams.capabilities`\n  * Add support for `balance_report` and `payout_reconciliation_report` on `AccountSession.components` and `AccountSessionCreateParams.components`\n  * ⚠️ Add support for new values `fee_credit_funding`, `inbound_transfer_reversal`, and `inbound_transfer` on enum `BalanceTransaction.type`\n  * Add support for `sunbit` on `Charge.payment_method_details`, `ConfirmationToken.payment_method_preview`, `ConfirmationTokenCreateParams.testHelpers.payment_method_data`, `PaymentAttemptRecord.payment_method_details`, `PaymentIntentConfirmParams.payment_method_data`, `PaymentIntentCreateParams.payment_method_data`, `PaymentIntentUpdateParams.payment_method_data`, `PaymentMethodConfigurationCreateParams`, `PaymentMethodConfigurationUpdateParams`, `PaymentMethodConfiguration`, `PaymentMethodCreateParams`, `PaymentMethod`, `PaymentRecord.payment_method_details`, `SetupIntentConfirmParams.payment_method_data`, `SetupIntentCreateParams.payment_method_data`, and `SetupIntentUpdateParams.payment_method_data`\n  * ⚠️ Add support for new values `phantom_cash` and `usdt` on enums `Charge.payment_method_details.crypto.token_currency`, `PaymentAttemptRecord.payment_method_details.crypto.token_currency`, and `PaymentRecord.payment_method_details.crypto.token_currency`\n  * Add support for `location` and `reader` on `Charge.payment_method_details.klarna`, `PaymentAttemptRecord.payment_method_details.klarna`, and `PaymentRecord.payment_method_details.klarna`\n  * Add support for `mandate` on `Charge.payment_method_details.pix`, `PaymentAttemptRecord.payment_method_details.pix`, and `PaymentRecord.payment_method_details.pix`\n  * Add support for `managed_payments` on `Checkout.SessionCreateParams`, `Checkout.Session`, `PaymentIntent`, `PaymentLinkCreateParams`, `PaymentLink`, `SetupIntent`, and `Subscription`\n  * Add support for new value `sunbit` on enums `Checkout.SessionCreateParams.excluded_payment_method_types`, `PaymentIntentConfirmParams.excluded_payment_method_types`, `PaymentIntentCreateParams.excluded_payment_method_types`, `PaymentIntentUpdateParams.excluded_payment_method_types`, `SetupIntentCreateParams.excluded_payment_method_types`, and `SetupIntentUpdateParams.excluded_payment_method_types`\n  * Add support for `mandate_options` on `Checkout.Session.payment_method_options.pix`, `Checkout.SessionCreateParams.payment_method_options.pix`, `PaymentIntent.payment_method_options.pix`, `PaymentIntentConfirmParams.payment_method_options.pix`, `PaymentIntentCreateParams.payment_method_options.pix`, and `PaymentIntentUpdateParams.payment_method_options.pix`\n  * Change type of `Checkout.SessionCreateParams.payment_method_options.pix.setup_future_usage`, `PaymentIntentConfirmParams.payment_method_options.pix.setup_future_usage`, `PaymentIntentCreateParams.payment_method_options.pix.setup_future_usage`, and `PaymentIntentUpdateParams.payment_method_options.pix.setup_future_usage` from `literal('none')` to `enum('none'|'off_session')`\n  * Add support for new value `sunbit` on enum `Checkout.SessionCreateParams.payment_method_types`\n  * ⚠️ Add support for new values `fo_vat`, `gi_tin`, `it_cf`, and `py_ruc` on enums `Checkout.Session.customer_details.tax_ids[].type`, `Invoice.customer_tax_ids[].type`, `Tax.Calculation.customer_details.tax_ids[].type`, `Tax.Transaction.customer_details.tax_ids[].type`, and `TaxId.type`\n  * ⚠️ Change type of `Checkout.Session.payment_method_options.pix.setup_future_usage` and `PaymentIntent.payment_method_options.pix.setup_future_usage` from `literal('none')` to `enum('none'|'off_session')`\n  * Add support for new value `sunbit` on enums `ConfirmationTokenCreateParams.testHelpers.payment_method_data.type`, `PaymentIntentConfirmParams.payment_method_data.type`, `PaymentIntentCreateParams.payment_method_data.type`, `PaymentIntentUpdateParams.payment_method_data.type`, `SetupIntentConfirmParams.payment_method_data.type`, `SetupIntentCreateParams.payment_method_data.type`, and `SetupIntentUpdateParams.payment_method_data.type`\n  * ⚠️ Add support for new value `sunbit` on enums `ConfirmationToken.payment_method_preview.type` and `PaymentMethod.type`\n  * Add support for new values `fo_vat`, `gi_tin`, `it_cf`, and `py_ruc` on enums `CustomerCreateParams.tax_id_data[].type`, `CustomerCreateTaxIdParams.type`, `InvoiceCreatePreviewParams.customer_details.tax_ids[].type`, `Tax.CalculationCreateParams.customer_details.tax_ids[].type`, and `TaxIdCreateParams.type`\n  * Add support for new value `sunbit` on enums `CustomerListPaymentMethodsParams.type`, `PaymentMethodCreateParams.type`, and `PaymentMethodListParams.type`\n  * Add support for `pix` on `Invoice.payment_settings.payment_method_options`, `InvoiceCreateParams.payment_settings.payment_method_options`, `InvoiceUpdateParams.payment_settings.payment_method_options`, `Mandate.payment_method_details`, `SetupAttempt.payment_method_details`, `SetupIntent.payment_method_options`, `SetupIntentConfirmParams.payment_method_options`, `SetupIntentCreateParams.payment_method_options`, `SetupIntentUpdateParams.payment_method_options`, `Subscription.payment_settings.payment_method_options`, `SubscriptionCreateParams.payment_settings.payment_method_options`, and `SubscriptionUpdateParams.payment_settings.payment_method_options`\n  * Add support for `upi` on `Invoice.payment_settings.payment_method_options`, `InvoiceCreateParams.payment_settings.payment_method_options`, `InvoiceUpdateParams.payment_settings.payment_method_options`, `Subscription.payment_settings.payment_method_options`, `SubscriptionCreateParams.payment_settings.payment_method_options`, and `SubscriptionUpdateParams.payment_settings.payment_method_options`\n  * Add support for new values `pix` and `upi` on enums `InvoiceCreateParams.payment_settings.payment_method_types`, `InvoiceUpdateParams.payment_settings.payment_method_types`, `SubscriptionCreateParams.payment_settings.payment_method_types`, and `SubscriptionUpdateParams.payment_settings.payment_method_types`\n  * ⚠️ Add support for new values `pix` and `upi` on enums `Invoice.payment_settings.payment_method_types` and `Subscription.payment_settings.payment_method_types`\n  * Add support for `card_presence` on `Issuing.Authorization`\n  * Add support for `allowed_card_presences` and `blocked_card_presences` on `Issuing.Card.spending_controls`, `Issuing.CardCreateParams.spending_controls`, `Issuing.CardUpdateParams.spending_controls`, `Issuing.Cardholder.spending_controls`, `Issuing.CardholderCreateParams.spending_controls`, and `Issuing.CardholderUpdateParams.spending_controls`\n  * ⚠️ Add support for new value `fulfillment_error` on enum `Issuing.Card.cancellation_reason`\n  * ⚠️ Add support for new value `fulfillment_error` on enum `Issuing.Card.replacement_reason`\n  * Add support for `amount` and `currency` on `Mandate.multi_use`\n  * Add support for `amount_to_confirm` on `PaymentIntentConfirmParams`\n  * ⚠️ Add support for new value `sunbit` on enums `PaymentIntent.excluded_payment_method_types` and `SetupIntent.excluded_payment_method_types`\n  * Add support for `klarna_display_qr_code` on `PaymentIntent.next_action`\n  * Add support for new value `sunbit` on enums `PaymentLinkCreateParams.payment_method_types` and `PaymentLinkUpdateParams.payment_method_types`\n  * ⚠️ Add support for new value `sunbit` on enum `PaymentLink.payment_method_types`\n  * ⚠️ Add support for new values `low`, `not_assessed`, and `unknown` on enum `Radar.PaymentEvaluation.signals.fraudulent_payment.risk_level`\n  * Add support for new value `account` on enum `Radar.ValueListCreateParams.item_type`\n  * ⚠️ Add support for new value `account` on enum `Radar.ValueList.item_type`\n  * Add support for `moto` on `SetupAttempt.payment_method_details.card`\n  * Add support for `pix_display_qr_code` on `SetupIntent.next_action`\n  * Add support for new value `2026-04-22.dahlia` on enum `WebhookEndpointCreateParams.api_version`\n  * Add support for error codes `action_blocked` and `approval_required` on `Invoice.last_finalization_error`, `PaymentIntent.last_payment_error`, `SetupAttempt.setup_error`, `SetupIntent.last_setup_error`, and `StripeError`\n* [#2688](https://github.com/stripe/stripe-node/pull/2688) Preserve stack traces for async operations\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.1.0/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-04-27T10:14:20Z"
+    "derniere_maj": "2026-05-04T10:12:57Z"
   }
 }
