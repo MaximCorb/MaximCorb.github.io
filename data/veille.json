@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-05-11T07:56:58Z",
-    "pushed_at": "2026-05-08T18:32:23Z",
+    "updated_at": "2026-05-18T11:16:38Z",
+    "pushed_at": "2026-05-15T23:35:23Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 32387,
-    "stargazers_count": 4413,
-    "watchers_count": 4413,
+    "size": 32521,
+    "stargazers_count": 4423,
+    "watchers_count": 4423,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 895,
+    "forks_count": 898,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 44,
+    "open_issues_count": 46,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 895,
-    "open_issues": 44,
-    "watchers": 4413,
+    "forks": 898,
+    "open_issues": 46,
+    "watchers": 4423,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -136,22 +136,22 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 895,
+    "network_count": 898,
     "subscribers_count": 83
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4413,
-      "forks": 895,
-      "issues": 44
+      "stars": 4423,
+      "forks": 898,
+      "issues": 46
     },
     {
       "nom": "PayPal-PHP-SDK",
       "repo": "paypal/PayPal-PHP-SDK",
       "stars": 41,
-      "forks": 130,
+      "forks": 131,
       "issues": 21
     },
     {
@@ -159,12 +159,11 @@
       "repo": "mollie/mollie-api-php",
       "stars": 600,
       "forks": 201,
-      "issues": 3
+      "issues": 6
     }
   ],
   "commits": {
     "all": [
-      0,
       4,
       2,
       2,
@@ -215,7 +214,8 @@
       5,
       2,
       0,
-      4
+      4,
+      3
     ],
     "owner": [
       0,
@@ -315,6 +315,6 @@
     "body": "* [#2703](https://github.com/stripe/stripe-node/pull/2703) Export Decimal type from Stripe namespace\n  \r\n  - Added `Stripe.Decimal` as a usable type in the `Stripe` namespace, enabling type annotations like `function takesDecimal(d: Stripe.Decimal)`.\n* [#2704](https://github.com/stripe/stripe-node/pull/2704) Fix file upload regression: restore multipart request data processor\n  \r\n  - Fixed file uploads failing with `StripeInvalidRequestError` on the `/v1/files` endpoint since v22.\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.1.1/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-05-11T11:19:10Z"
+    "derniere_maj": "2026-05-18T11:43:34Z"
   }
 }

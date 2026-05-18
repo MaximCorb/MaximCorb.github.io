@@ -9,15 +9,15 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
-      <title>Everything we announced at Sessions 2026</title>
-      <link>https://stripe.com/blog/everything-we-announced-at-sessions-2026</link>
-      <description>We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5Uq9NEKuVAdSjvGIpsY4wy/ef80210cb8ff35c3a15fb1f2e9123539/updated-blog-index.png"
-        length="20394466"
+      <title>Five vertical SaaS insights from Sessions 2026</title>
+      <link>https://stripe.com/blog/vertical-saas-insights-sessions-2026</link>
+      <description>AI is forcing platforms to expand beyond pure software. See how vertical SaaS platforms are using payments, financial services, and agentic commerce to build more durable businesses.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6cEmsrSa4sI1LamZFsHMdv/437806562a9b76619e3b2f981e0c6938/Index_image_NEW.png"
+        length="107332"
         type="image/png"/>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/everything-we-announced-at-sessions-2026</guid>
-      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/vertical-saas-insights-sessions-2026</guid>
+      <dc:date>2026-05-11T00:00:00+00:00</dc:date>
     </item>
     <item>
       <title>Giving agents the ability to pay</title>
@@ -28,6 +28,17 @@
         type="image/png"/>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/giving-agents-the-ability-to-pay</guid>
+      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Everything we announced at Sessions 2026</title>
+      <link>https://stripe.com/blog/everything-we-announced-at-sessions-2026</link>
+      <description>We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5Uq9NEKuVAdSjvGIpsY4wy/ef80210cb8ff35c3a15fb1f2e9123539/updated-blog-index.png"
+        length="20394466"
+        type="image/png"/>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/everything-we-announced-at-sessions-2026</guid>
       <dc:date>2026-04-29T00:00:00+00:00</dc:date>
     </item>
     <item>
@@ -106,17 +117,6 @@
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/10-lessons</guid>
       <dc:date>2026-03-12T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Analyzing first-party fraud trends: Account, free trial, and refund abuse</title>
-      <link>https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse</link>
-      <description>From November 2025 to February 2026, our models detected 6.2x more abusive free trials across the Stripe network. This is part of a broader shift toward first-party fraud, where legitimate users abuse policies by setting up multiple accounts, cycling through free trials, or exploiting refunds.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6Q9QOcOKdwnmutUW8UEFOM/0b06bc4a1e35569bf711188f4927e120/fpft-updated-index.png"
-        length="810819"
-        type="image/png"/>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse</guid>
-      <dc:date>2026-03-10T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
