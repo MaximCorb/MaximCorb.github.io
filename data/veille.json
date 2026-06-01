@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-05-24T19:46:57Z",
-    "pushed_at": "2026-05-24T14:20:57Z",
+    "updated_at": "2026-06-01T10:05:11Z",
+    "pushed_at": "2026-05-30T01:10:19Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 32687,
-    "stargazers_count": 4426,
-    "watchers_count": 4426,
+    "size": 33872,
+    "stargazers_count": 4429,
+    "watchers_count": 4429,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 900,
+    "forks_count": 907,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 45,
+    "open_issues_count": 49,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 900,
-    "open_issues": 45,
-    "watchers": 4426,
+    "forks": 907,
+    "open_issues": 49,
+    "watchers": 4429,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -136,22 +136,22 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 900,
+    "network_count": 907,
     "subscribers_count": 83
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4426,
-      "forks": 900,
-      "issues": 45
+      "stars": 4429,
+      "forks": 907,
+      "issues": 49
     },
     {
       "nom": "PayPal-PHP-SDK",
       "repo": "paypal/PayPal-PHP-SDK",
       "stars": 41,
-      "forks": 131,
+      "forks": 132,
       "issues": 21
     },
     {
@@ -159,12 +159,11 @@
       "repo": "mollie/mollie-api-php",
       "stars": 602,
       "forks": 201,
-      "issues": 4
+      "issues": 2
     }
   ],
   "commits": {
     "all": [
-      2,
       2,
       0,
       0,
@@ -215,7 +214,8 @@
       0,
       4,
       3,
-      1
+      1,
+      3
     ],
     "owner": [
       0,
@@ -273,11 +273,11 @@
     ]
   },
   "release": {
-    "url": "https://api.github.com/repos/stripe/stripe-node/releases/318642769",
-    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/318642769/assets",
-    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/318642769/assets{?name,label}",
-    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.1.1",
-    "id": 318642769,
+    "url": "https://api.github.com/repos/stripe/stripe-node/releases/330478572",
+    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/330478572/assets",
+    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/330478572/assets{?name,label}",
+    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.2.0",
+    "id": 330478572,
     "author": {
       "login": "mbroshi-stripe",
       "id": 94012587,
@@ -299,22 +299,22 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOACW3fM4S_hpR",
-    "tag_name": "v22.1.1",
+    "node_id": "RE_kwDOACW3fM4TsrPs",
+    "tag_name": "v22.2.0",
     "target_commitish": "master",
-    "name": "v22.1.1",
+    "name": "v22.2.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-05-06T21:25:45Z",
-    "updated_at": "2026-05-06T21:25:51Z",
-    "published_at": "2026-05-06T21:25:51Z",
+    "created_at": "2026-05-27T20:22:37Z",
+    "updated_at": "2026-05-27T20:22:43Z",
+    "published_at": "2026-05-27T20:22:43Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.1.1",
-    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.1.1",
-    "body": "* [#2703](https://github.com/stripe/stripe-node/pull/2703) Export Decimal type from Stripe namespace\n  \r\n  - Added `Stripe.Decimal` as a usable type in the `Stripe` namespace, enabling type annotations like `function takesDecimal(d: Stripe.Decimal)`.\n* [#2704](https://github.com/stripe/stripe-node/pull/2704) Fix file upload regression: restore multipart request data processor\n  \r\n  - Fixed file uploads failing with `StripeInvalidRequestError` on the `/v1/files` endpoint since v22.\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.1.1/CHANGELOG.md).\n"
+    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.2.0",
+    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.2.0",
+    "body": "This release changes the pinned API version to 2026-05-27.dahlia.\n\n* [#2710](https://github.com/stripe/stripe-node/pull/2710) Update generated code\n  * Add support for new resource `V2.Commerce.ProductCatalogImport`\n  * Add support for `create` and `retrieve` methods on resource `V2.Commerce.ProductCatalogImport`\n  * Add support for `bizum_payments` and `scalapay_payments` on `Account.capabilities`, `AccountCreateParams.capabilities`, and `AccountUpdateParams.capabilities`\n  * Add support for `automatic_transfer_rules_by_currency` on `BalanceSettingUpdateParams.payments.payouts` and `BalanceSettings.payments.payouts`\n  * Add support for `start_of_day` on `BalanceSettingUpdateParams.payments.settlement_timing` and `BalanceSettings.payments.settlement_timing`\n  * Add support for `description` on `ChargeCreateParams.transfer_data`, `PaymentIntent.transfer_data`, `PaymentIntentCreateParams.transfer_data`, and `PaymentIntentUpdateParams.transfer_data`\n  * Add support for `bizum` on `Charge.payment_method_details`, `ConfirmationToken.payment_method_preview`, `ConfirmationTokenCreateParams.testHelpers.payment_method_data`, `PaymentAttemptRecord.payment_method_details`, `PaymentIntent.payment_method_options`, `PaymentIntentConfirmParams.payment_method_data`, `PaymentIntentConfirmParams.payment_method_options`, `PaymentIntentCreateParams.payment_method_data`, `PaymentIntentCreateParams.payment_method_options`, `PaymentIntentUpdateParams.payment_method_data`, `PaymentIntentUpdateParams.payment_method_options`, `PaymentMethodConfigurationCreateParams`, `PaymentMethodConfigurationUpdateParams`, `PaymentMethodConfiguration`, `PaymentMethodCreateParams`, `PaymentMethod`, `PaymentRecord.payment_method_details`, `SetupIntent.payment_method_options`, `SetupIntentConfirmParams.payment_method_data`, `SetupIntentConfirmParams.payment_method_options`, `SetupIntentCreateParams.payment_method_data`, `SetupIntentCreateParams.payment_method_options`, `SetupIntentUpdateParams.payment_method_data`, and `SetupIntentUpdateParams.payment_method_options`\n  * Add support for `scalapay` on `Charge.payment_method_details`, `Checkout.Session.payment_method_options`, `Checkout.SessionCreateParams.payment_method_options`, `ConfirmationToken.payment_method_preview`, `ConfirmationTokenCreateParams.testHelpers.payment_method_data`, `PaymentAttemptRecord.payment_method_details`, `PaymentIntent.payment_method_options`, `PaymentIntentConfirmParams.payment_method_data`, `PaymentIntentConfirmParams.payment_method_options`, `PaymentIntentCreateParams.payment_method_data`, `PaymentIntentCreateParams.payment_method_options`, `PaymentIntentUpdateParams.payment_method_data`, `PaymentIntentUpdateParams.payment_method_options`, `PaymentMethodConfigurationCreateParams`, `PaymentMethodConfigurationUpdateParams`, `PaymentMethodConfiguration`, `PaymentMethodCreateParams`, `PaymentMethod`, `PaymentRecord.payment_method_details`, `Refund.destination_details`, `SetupIntentConfirmParams.payment_method_data`, `SetupIntentCreateParams.payment_method_data`, and `SetupIntentUpdateParams.payment_method_data`\n  * Add support for `mandate` on `Charge.payment_method_details.twint`, `PaymentAttemptRecord.payment_method_details.twint`, and `PaymentRecord.payment_method_details.twint`\n  * Add support for new values `bizum` and `scalapay` on enums `Checkout.SessionCreateParams.excluded_payment_method_types`, `PaymentIntentConfirmParams.excluded_payment_method_types`, `PaymentIntentCreateParams.excluded_payment_method_types`, `PaymentIntentUpdateParams.excluded_payment_method_types`, `SetupIntentCreateParams.excluded_payment_method_types`, and `SetupIntentUpdateParams.excluded_payment_method_types`\n  * Change type of `Checkout.SessionCreateParams.payment_method_options.twint.setup_future_usage`, `PaymentIntentConfirmParams.payment_method_options.twint.setup_future_usage`, `PaymentIntentCreateParams.payment_method_options.twint.setup_future_usage`, and `PaymentIntentUpdateParams.payment_method_options.twint.setup_future_usage` from `literal('none')` to `enum('none'|'off_session')`\n  * Add support for new values `bizum` and `scalapay` on enum `Checkout.SessionCreateParams.payment_method_types`\n  * ⚠️ Change type of `Checkout.Session.payment_method_options.twint.setup_future_usage` and `PaymentIntent.payment_method_options.twint.setup_future_usage` from `literal('none')` to `enum('none'|'off_session')`\n  * Add support for new values `bizum` and `scalapay` on enums `ConfirmationTokenCreateParams.testHelpers.payment_method_data.type`, `PaymentIntentConfirmParams.payment_method_data.type`, `PaymentIntentCreateParams.payment_method_data.type`, `PaymentIntentUpdateParams.payment_method_data.type`, `SetupIntentConfirmParams.payment_method_data.type`, `SetupIntentCreateParams.payment_method_data.type`, and `SetupIntentUpdateParams.payment_method_data.type`\n  * ⚠️ Add support for new values `bizum` and `scalapay` on enums `ConfirmationToken.payment_method_preview.type` and `PaymentMethod.type`\n  * Add support for new values `bizum` and `scalapay` on enums `CustomerListPaymentMethodsParams.type`, `PaymentMethodCreateParams.type`, and `PaymentMethodListParams.type`\n  * Add support for `credited_items` on `InvoiceItem.proration_details`\n  * Add support for new value `twint` on enums `InvoiceCreateParams.payment_settings.payment_method_types`, `InvoiceUpdateParams.payment_settings.payment_method_types`, `SubscriptionCreateParams.payment_settings.payment_method_types`, and `SubscriptionUpdateParams.payment_settings.payment_method_types`\n  * Add support for `discountable` on `InvoiceCreatePreviewParams.schedule_details.phases[].add_invoice_items[]`, `SubscriptionCreateParams.add_invoice_items[]`, `SubscriptionSchedule.phases[].add_invoice_items[]`, `SubscriptionScheduleCreateParams.phases[].add_invoice_items[]`, `SubscriptionScheduleUpdateParams.phases[].add_invoice_items[]`, and `SubscriptionUpdateParams.add_invoice_items[]`\n  * Add support for `billing_schedules` on `InvoiceCreatePreviewParams.subscription_details`, `SubscriptionCreateParams`, `SubscriptionUpdateParams`, and `Subscription`\n  * Add support for new value `max_billed_until` on enums `InvoiceCreatePreviewParams.subscription_details.cancel_at`, `SubscriptionCreateParams.cancel_at`, and `SubscriptionUpdateParams.cancel_at`\n  * Add support for `amount_paid_off_stripe` on `Invoice`\n  * ⚠️ Add support for new value `twint` on enums `Invoice.payment_settings.payment_method_types` and `Subscription.payment_settings.payment_method_types`\n  * Add support for `twint` on `Mandate.payment_method_details` and `SetupAttempt.payment_method_details`\n  * Add support for `metadata` on `PaymentIntent.transfer_data`, `PaymentIntentCreateParams.transfer_data`, `PaymentIntentUpdateParams.transfer_data`, and `Subscription.pending_update`\n  * Add support for `payment_data` on `PaymentIntent.transfer_data`, `PaymentIntentCreateParams.transfer_data`, and `PaymentIntentUpdateParams.transfer_data`\n  * ⚠️ Add support for new values `bizum` and `scalapay` on enums `PaymentIntent.excluded_payment_method_types` and `SetupIntent.excluded_payment_method_types`\n  * Add support for `blik_authorize` on `PaymentIntent.next_action` and `SetupIntent.next_action`\n  * Add support for `payment_method_options` on `PaymentLinkCreateParams`, `PaymentLinkUpdateParams`, and `PaymentLink`\n  * Add support for new value `bizum` on enums `PaymentLinkCreateParams.payment_method_types` and `PaymentLinkUpdateParams.payment_method_types`\n  * ⚠️ Add support for new value `bizum` on enum `PaymentLink.payment_method_types`\n  * Add support for `active` on `PaymentMethodConfigurationListParams`\n  * Add support for `billed_until` on `SubscriptionItem`\n  * Add support for `discount` and `discounts` on `Subscription.pending_update`\n  * Add support for `verifone_m425`, `verifone_p630`, `verifone_ux700`, and `verifone_v660p` on `Terminal.ConfigurationCreateParams`, `Terminal.ConfigurationUpdateParams`, and `Terminal.Configuration`\n  * Add support for new values `simulated_verifone_m425`, `simulated_verifone_p630`, `simulated_verifone_ux700`, `simulated_verifone_v660p`, `verifone_m425`, `verifone_p630`, `verifone_ux700`, and `verifone_v660p` on enum `Terminal.ReaderListParams.device_type`\n  * Add support for `api_error` and `print_content` on `Terminal.Reader.action`\n  * ⚠️ Add support for new value `print_content` on enum `Terminal.Reader.action.type`\n  * ⚠️ Add support for new values `simulated_verifone_m425`, `simulated_verifone_p630`, `simulated_verifone_ux700`, `simulated_verifone_v660p`, `verifone_m425`, `verifone_p630`, `verifone_ux700`, and `verifone_v660p` on enum `Terminal.Reader.device_type`\n  * Add support for `customer` on `TestHelpers.TestClockCreateParams`\n  * Add support for new value `2026-05-27.dahlia` on enum `WebhookEndpointCreateParams.api_version`\n  * Add support for `signer` on `V2.Core.Account.identity.business_details.documents.proof_of_registration`, `V2.Core.Account.identity.business_details.documents.proof_of_ultimate_beneficial_ownership`, `V2.Core.AccountCreateParams.identity.business_details.documents.proof_of_registration`, `V2.Core.AccountCreateParams.identity.business_details.documents.proof_of_ultimate_beneficial_ownership`, `V2.Core.AccountTokenCreateParams.identity.business_details.documents.proof_of_registration`, `V2.Core.AccountTokenCreateParams.identity.business_details.documents.proof_of_ultimate_beneficial_ownership`, `V2.Core.AccountUpdateParams.identity.business_details.documents.proof_of_registration`, and `V2.Core.AccountUpdateParams.identity.business_details.documents.proof_of_ultimate_beneficial_ownership`\n  * Add support for `azure_event_grid` on `V2.Core.EventDestinationCreateParams` and `V2.Core.EventDestination`\n  * ⚠️ Add support for new value `no_azure_partner_topic_exists` on enum `V2.Core.EventDestination.status_details.disabled.reason`\n  * ⚠️ Add support for new value `azure_event_grid` on enum `V2.Core.EventDestination.type`\n  * Add support for new value `azure_event_grid` on enum `V2.Core.EventDestinationCreateParams.type`\n  * ⚠️ Add support for new value `meter_event_value_too_many_digits` on enums `EventsV1BillingMeterErrorReportTriggeredEvent.reason.error_types[].code` and `EventsV1BillingMeterNoMeterFoundEvent.reason.error_types[].code`\n  * Add support for event notifications `V2CommerceProductCatalogImportsFailedEvent`, `V2CommerceProductCatalogImportsProcessingEvent`, `V2CommerceProductCatalogImportsSucceededEvent`, and `V2CommerceProductCatalogImportsSucceededWithErrorsEvent` with related object `V2.Commerce.ProductCatalogImport`\n  * Add support for error codes `payment_method_microdeposit_processing_error` and `siret_invalid` on `Invoice.last_finalization_error`, `PaymentIntent.last_payment_error`, `SetupAttempt.setup_error`, `SetupIntent.last_setup_error`, and `StripeError`\n* [#2723](https://github.com/stripe/stripe-node/pull/2723) Emit warning when `stripe-notify` header is present in response\n* [#2717](https://github.com/stripe/stripe-node/pull/2717) Add V2List and V2ListPromise types for v2 list endpoints\n  * Adds `V2List` and `V2ListPromise` types to represent API v2 list responses.  These types include deprecated fields from the previously returned list shapes.  These fields will be removed in the next major release.\n* [#2715](https://github.com/stripe/stripe-node/pull/2715) Add WinterTC compatibility ESLint rule\n* [#2711](https://github.com/stripe/stripe-node/pull/2711) Export manually maintained types for OAuthToken and OAuth param classes\n  ```ts\r\n  // ❌ Before (v22.0.0-v22.1.1)\r\n  const oAuthToken: Stripe.OAuthToken = {};\r\n  \r\n  // ✅ After (works on v22.1.2+)\r\n  const oAuthToken: Stripe.OAuthToken = {};\r\n  ```\n* [#2712](https://github.com/stripe/stripe-node/pull/2712) Exported types for nested param classes\n  * Types inside nested param class namespaces(e.g. `Stripe.V2.Core.AccountCreateParams.Configuration`, `Stripe.V2.Core.AccountCreateParams.Dashboard`) are now accessible.\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.2.0/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-05-25T11:52:32Z"
+    "derniere_maj": "2026-06-01T13:35:35Z"
   }
 }
