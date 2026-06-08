@@ -9,6 +9,44 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>New ways to turn global demand into revenue</title>
+      <link>https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue</link>
+      <description>At Sessions 2026, Stripe unveiled dozens of products and capabilities to help businesses turn global demand into revenue. See how to go global faster with localized checkout and Adaptive Pricing, smarter fraud tools, multicurrency treasury support, and automated tax compliance.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4U7BjI3CSDLJ5GSJRpNkIB/c6bcc4533280bfced4e2067247035319/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding_4.png"
+        length="326576"
+        type="image/png"/>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue</guid>
+      <dc:date>2026-06-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The future of agentic commerce is here</title>
+      <link>https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH</link>
+      <description>Explore how AI agents are transforming commerce at Stripe’s Agentic Commerce Next roadshow. Reserve your spot in Seattle. </description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH</guid>
+      <dc:date>2026-06-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Rethinking risk in the age of AI</title>
+      <link>https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH</link>
+      <description>Join senior risk and payments leaders in Seattle to explore how AI is reshaping fraud strategy. Seats are limited. </description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH</guid>
+      <dc:date>2026-06-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)</title>
+      <link>https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program</link>
+      <description>We moved quickly to help Stripe businesses take advantage of DCAP and capture interchange savings while protecting authorization rates. Here’s what we did.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/JzGrj59MBDaLNm9e1akgN/e43d83ae9015d74511b815aadec81ee9/dcap-index-2.jpg"
+        length="2043759"
+        type="image/jpeg"/>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program</guid>
+      <dc:date>2026-06-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Solo founding is at an all-time high: Top performers have these traits in common</title>
       <link>https://stripe.com/blog/top-solo-founder-traits</link>
       <description>In 2025, solo founders in the top decile generated 61 times the revenue of the median solo founder in their first six months. We analyzed the data to understand what drives that gap.</description>
@@ -73,50 +111,6 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/global-checkout-trends</guid>
       <dc:date>2026-04-07T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Insights from Shoptalk 2026: How agents are changing retail</title>
-      <link>https://stripe.com/blog/shoptalk-2026</link>
-      <description>Retailers know search and discovery have already shifted. What comes next is less settled. From embedded checkout to emerging third-party surfaces, here’s how ecommerce and AI leaders are integrating agentic commerce.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5aI5xOfce2H0wZlLKZzIgv/02ddf4d2c099f39d2a63c70e5e794195/3_agentic_trends_-_1500x1500_-_7.png"
-        length="2620073"
-        type="image/png"/>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/shoptalk-2026</guid>
-      <dc:date>2026-04-02T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>How Stripe Radar helps prevent free trial abuse</title>
-      <link>https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse</link>
-      <description>Radar now helps prevent free trial abuse with just one click. When enabled, Radar predicts the presence of abusive behavior that violates common trial terms, such as repeated trial signup or missed cancellations, with 90% accuracy.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/23lASLziC4DNmD8xdKQHqu/99291ee057701ba5d661881830c72ff7/Radar-index.png"
-        length="708929"
-        type="image/png"/>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse</guid>
-      <dc:date>2026-03-24T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Three of the biggest fraud trends from MRC Vegas 2026</title>
-      <link>https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026</link>
-      <description>The most sophisticated fraud teams are shifting from one-size-fits-all fraud approaches to more dynamic, tailored interventions. They are removing friction for trusted users, embedding fraud detection directly into agentic transactions, and investing in multilayered identity verification to combat deepfakes. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6EX5VwS3VABCPIi20UrofS/7ce914e20366c183f0fcfa7ae8d8a5ba/MRC-index.png"
-        length="3289829"
-        type="image/png"/>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026</guid>
-      <dc:date>2026-03-20T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Testing the impact of Adaptive Pricing across 1.5M subscription checkout sessions</title>
-      <link>https://stripe.com/blog/adaptive-pricing-for-subscriptions</link>
-      <description>Adaptive Pricing is now available for subscriptions, allowing businesses to automatically localize prices in 150+ countries while Stripe handles currency conversion. In an A/B test across 1.5 million subscription checkouts, businesses saw 4.7% higher conversion and 5.4% higher LTV per session, on average.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6Ee0jsPU0no73KBQtvLZSs/3f8e7c460e2e394b0deb3aba8af00fcc/Blog_Index_2x__1_.png"
-        length="12447384"
-        type="image/png"/>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/adaptive-pricing-for-subscriptions</guid>
-      <dc:date>2026-03-19T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
