@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Stripe Projects adds new agent integrations, more providers, and custom developer controls</title>
+      <link>https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls</link>
+      <description>Our data shows that agents are now fully capable of independently writing code and integrating with APIs like Stripe’s. And yet, many of the steps adjacent to writing code are still too hard for agents to do on their own. We’re expanding Stripe Projects to solve this. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4mPcNGGQ44X1tyxR5NqLkf/c5c51591187eaebeb1291d662bee2356/projects-index.jpg"
+        length="3016779"
+        type="image/jpeg"/>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls</guid>
+      <dc:date>2026-06-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>New ways to turn global demand into revenue</title>
       <link>https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue</link>
       <description>At Sessions 2026, Stripe unveiled dozens of products and capabilities to help businesses turn global demand into revenue. See how to go global faster with localized checkout and Adaptive Pricing, smarter fraud tools, multicurrency treasury support, and automated tax compliance.</description>
@@ -80,17 +91,6 @@
       <dc:date>2026-05-11T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>Everything we announced at Sessions 2026</title>
-      <link>https://stripe.com/blog/everything-we-announced-at-sessions-2026</link>
-      <description>We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5Uq9NEKuVAdSjvGIpsY4wy/ef80210cb8ff35c3a15fb1f2e9123539/updated-blog-index.png"
-        length="20394466"
-        type="image/png"/>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/everything-we-announced-at-sessions-2026</guid>
-      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
-    </item>
-    <item>
       <title>Giving agents the ability to pay</title>
       <link>https://stripe.com/blog/giving-agents-the-ability-to-pay</link>
       <description>Link’s wallet for agents gives agents programmatic access to Link, including the ability to generate a one-time-use card or Shared Payment Token (SPT) backed by the cards and bank accounts already in your wallet. It’s built on Stripe’s new Issuing for agents.</description>
@@ -102,15 +102,15 @@
       <dc:date>2026-04-29T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>How agents, digital wallets, and trust are rewriting checkout</title>
-      <link>https://stripe.com/blog/global-checkout-trends</link>
-      <description>We analyzed checkout activity across more than 20K businesses, surveyed shoppers and ecommerce leaders, and gathered insights from businesses on the Stripe network to understand what’s changing in online conversion.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/ldkId6Rz1TQvWrVdACbe0/c3c1a161b959d5714171ee73b4e79fcc/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding__1_.png"
-        length="442653"
+      <title>Everything we announced at Sessions 2026</title>
+      <link>https://stripe.com/blog/everything-we-announced-at-sessions-2026</link>
+      <description>We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5Uq9NEKuVAdSjvGIpsY4wy/ef80210cb8ff35c3a15fb1f2e9123539/updated-blog-index.png"
+        length="20394466"
         type="image/png"/>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/global-checkout-trends</guid>
-      <dc:date>2026-04-07T00:00:00+00:00</dc:date>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/everything-we-announced-at-sessions-2026</guid>
+      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
