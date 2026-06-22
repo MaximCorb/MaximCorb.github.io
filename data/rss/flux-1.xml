@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>What Link data tells us about AI spending</title>
+      <link>https://stripe.com/blog/what-link-data-tells-us-about-ai-spending</link>
+      <description>We analyzed spending patterns across the 250 million customers paying with Link. We found that Link customers are spending more on AI than they were three months prior, investing heavily in platforms that let them build with AI. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1d0PEqEHTGAp3Ovw1cwtq4/53bb4255b0aa7ae5c55f157acf96c53f/new-index.jpg"
+        length="461444"
+        type="image/jpeg"/>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/what-link-data-tells-us-about-ai-spending</guid>
+      <dc:date>2026-06-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Stripe Projects adds new agent integrations, more providers, and custom developer controls</title>
       <link>https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls</link>
       <description>Our data shows that agents are now fully capable of independently writing code and integrating with APIs like Stripe’s. And yet, many of the steps adjacent to writing code are still too hard for agents to do on their own. We’re expanding Stripe Projects to solve this. </description>
@@ -99,17 +110,6 @@
         type="image/png"/>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/giving-agents-the-ability-to-pay</guid>
-      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Everything we announced at Sessions 2026</title>
-      <link>https://stripe.com/blog/everything-we-announced-at-sessions-2026</link>
-      <description>We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5Uq9NEKuVAdSjvGIpsY4wy/ef80210cb8ff35c3a15fb1f2e9123539/updated-blog-index.png"
-        length="20394466"
-        type="image/png"/>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/everything-we-announced-at-sessions-2026</guid>
       <dc:date>2026-04-29T00:00:00+00:00</dc:date>
     </item>
   </channel>

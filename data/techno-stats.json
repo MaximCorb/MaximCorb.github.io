@@ -66,16 +66,16 @@
   "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
   "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
   "created_at": "2011-09-28T00:28:33Z",
-  "updated_at": "2026-06-13T14:17:22Z",
-  "pushed_at": "2026-06-13T01:33:00Z",
+  "updated_at": "2026-06-20T04:20:36Z",
+  "pushed_at": "2026-06-18T23:23:09Z",
   "git_url": "git://github.com/stripe/stripe-node.git",
   "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
   "clone_url": "https://github.com/stripe/stripe-node.git",
   "svn_url": "https://github.com/stripe/stripe-node",
   "homepage": "https://stripe.com",
-  "size": 32533,
-  "stargazers_count": 4439,
-  "watchers_count": 4439,
+  "size": 33400,
+  "stargazers_count": 4450,
+  "watchers_count": 4450,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -87,7 +87,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 50,
+  "open_issues_count": 45,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -106,8 +106,8 @@
   ],
   "visibility": "public",
   "forks": 910,
-  "open_issues": 50,
-  "watchers": 4439,
+  "open_issues": 45,
+  "watchers": 4450,
   "default_branch": "master",
   "temp_clone_token": null,
   "custom_properties": {
@@ -137,5 +137,5 @@
     "site_admin": false
   },
   "network_count": 910,
-  "subscribers_count": 84
+  "subscribers_count": 85
 }

@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/stripe/stripe-node/releases/338842202",
-  "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/338842202/assets",
-  "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/338842202/assets{?name,label}",
-  "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.2.1",
-  "id": 338842202,
+  "url": "https://api.github.com/repos/stripe/stripe-node/releases/341658996",
+  "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/341658996/assets",
+  "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/341658996/assets{?name,label}",
+  "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.2.2",
+  "id": 341658996,
   "author": {
     "login": "xavdid",
     "id": 1231935,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOACW3fM4UMlJa",
-  "tag_name": "v22.2.1",
+  "node_id": "RE_kwDOACW3fM4UXU10",
+  "tag_name": "v22.2.2",
   "target_commitish": "master",
-  "name": "v22.2.1",
+  "name": "v22.2.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-06-12T23:15:29Z",
-  "updated_at": "2026-06-12T23:15:35Z",
-  "published_at": "2026-06-12T23:15:35Z",
+  "created_at": "2026-06-18T21:43:59Z",
+  "updated_at": "2026-06-18T21:44:05Z",
+  "published_at": "2026-06-18T21:44:05Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.2.1",
-  "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.2.1",
-  "body": "* [#2750](https://github.com/stripe/stripe-node/pull/2750) URI Encode path params\n* [#2747](https://github.com/stripe/stripe-node/pull/2747) Fix V2ListIterator: concurrency guard and empty page handling\n* [#2740](https://github.com/stripe/stripe-node/pull/2740) Add \"source\" field to user-agent header\n* [#2734](https://github.com/stripe/stripe-node/pull/2734) Fix parseHttpHeaderAsNumber to return undefined instead of NaN\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.2.1/CHANGELOG.md).\n"
+  "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.2.2",
+  "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.2.2",
+  "body": "* [#2725](https://github.com/stripe/stripe-node/pull/2725) Fixes CJS type exports for stripe package (reported in [#2683](https://github.com/stripe/stripe-node/issues/2683))\n* [#2758](https://github.com/stripe/stripe-node/pull/2758) Fix `Stripe.ErrorType.StripeError` incorrectly being usable as a runtime class (reported in [#2661](https://github.com/stripe/stripe-node/issues/2661))\n* [#2753](https://github.com/stripe/stripe-node/pull/2753) handle shadowed namespaces (reported in [#2691](https://github.com/stripe/stripe-node/issues/2691))\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.2.2/CHANGELOG.md).\n"
 }
