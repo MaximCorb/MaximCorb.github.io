@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Four travel and hospitality trends from HITEC 2026</title>
+      <link>https://stripe.com/blog/trends-from-hitec</link>
+      <description>More than 6,000 hospitality executives and operators gathered in San Antonio last week for the HITEC conference. The big topic: whether the industry’s AI investment is actually working. Across four days and over 50 meetings, four trends stood out.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5yStRoozmsf9LiDdy2hFc3/a941bc071d98e02d2781e61add6bb868/IMG_9096.jpg"
+        length="86257"
+        type="image/jpeg"/>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/trends-from-hitec</guid>
+      <dc:date>2026-06-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>What Link data tells us about AI spending</title>
       <link>https://stripe.com/blog/what-link-data-tells-us-about-ai-spending</link>
       <description>We analyzed spending patterns across the 250 million customers paying with Link. We found that Link customers are spending more on AI than they were three months prior, investing heavily in platforms that let them build with AI. </description>
@@ -100,17 +111,6 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/vertical-saas-insights-sessions-2026</guid>
       <dc:date>2026-05-11T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Giving agents the ability to pay</title>
-      <link>https://stripe.com/blog/giving-agents-the-ability-to-pay</link>
-      <description>Link’s wallet for agents gives agents programmatic access to Link, including the ability to generate a one-time-use card or Shared Payment Token (SPT) backed by the cards and bank accounts already in your wallet. It’s built on Stripe’s new Issuing for agents.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6Q9CknSN2E2Fa6DUi6eWe/798ca5888658b7dd385cfb687dcff08b/LinkAgentWallet_1250x1250.png"
-        length="188385"
-        type="image/png"/>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/giving-agents-the-ability-to-pay</guid>
-      <dc:date>2026-04-29T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
