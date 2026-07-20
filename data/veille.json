@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-07-12T16:50:45Z",
-    "pushed_at": "2026-07-10T22:30:31Z",
+    "updated_at": "2026-07-19T10:12:37Z",
+    "pushed_at": "2026-07-16T21:30:14Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 35534,
-    "stargazers_count": 4469,
-    "watchers_count": 4469,
+    "size": 36489,
+    "stargazers_count": 4474,
+    "watchers_count": 4474,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 928,
+    "forks_count": 927,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 46,
+    "open_issues_count": 42,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 928,
-    "open_issues": 46,
-    "watchers": 4469,
+    "forks": 927,
+    "open_issues": 42,
+    "watchers": 4474,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -137,35 +137,34 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 928,
+    "network_count": 927,
     "subscribers_count": 85
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4469,
-      "forks": 928,
-      "issues": 46
+      "stars": 4474,
+      "forks": 927,
+      "issues": 42
     },
     {
       "nom": "PayPal-PHP-SDK",
       "repo": "paypal/PayPal-PHP-SDK",
       "stars": 41,
-      "forks": 132,
+      "forks": 133,
       "issues": 21
     },
     {
       "nom": "mollie-api-php",
       "repo": "mollie/mollie-api-php",
-      "stars": 602,
-      "forks": 202,
+      "stars": 603,
+      "forks": 200,
       "issues": 3
     }
   ],
   "commits": {
     "all": [
-      1,
       1,
       2,
       0,
@@ -216,7 +215,8 @@
       6,
       8,
       0,
-      5
+      5,
+      4
     ],
     "owner": [
       0,
@@ -274,11 +274,11 @@
     ]
   },
   "release": {
-    "url": "https://api.github.com/repos/stripe/stripe-node/releases/351695690",
-    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/351695690/assets",
-    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/351695690/assets{?name,label}",
-    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.3.1",
-    "id": 351695690,
+    "url": "https://api.github.com/repos/stripe/stripe-node/releases/354806770",
+    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/354806770/assets",
+    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/354806770/assets{?name,label}",
+    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.3.2",
+    "id": 354806770,
     "author": {
       "login": "xavdid",
       "id": 1231935,
@@ -300,22 +300,22 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOACW3fM4U9nNK",
-    "tag_name": "v22.3.1",
+    "node_id": "RE_kwDOACW3fM4VJevy",
+    "tag_name": "v22.3.2",
     "target_commitish": "master",
-    "name": "v22.3.1",
+    "name": "v22.3.2",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-07-09T17:55:24Z",
-    "updated_at": "2026-07-09T17:55:30Z",
-    "published_at": "2026-07-09T17:55:30Z",
+    "created_at": "2026-07-16T00:37:08Z",
+    "updated_at": "2026-07-16T00:37:14Z",
+    "published_at": "2026-07-16T00:37:14Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.3.1",
-    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.3.1",
-    "body": "* [#2781](https://github.com/stripe/stripe-node/pull/2781) Remove unused Retry-After header support\n* [#2779](https://github.com/stripe/stripe-node/pull/2779) Export HttpClient types as interfaces instead of classes\n  - `Stripe.HttpClient` and `Stripe.HttpClientResponse` types now reflect the minimal interface contract rather than the concrete class, making custom HTTP client implementations easier to type correctly.\n* [#2778](https://github.com/stripe/stripe-node/pull/2778) Restore missing public type exports from v21 Stripe namespace\n  - Restores `Stripe.StripeConfig`, `Stripe.CryptoProvider`, `Stripe.HttpClient`, `Stripe.HttpClientResponse`, `Stripe.Webhooks`, `Stripe.Signature`, `Stripe.WebhookTestHeaderOptions`, `Stripe.StripeResource`, `Stripe.LatestApiVersion`, `Stripe.HttpAgent`, `Stripe.HttpProtocol`, and `Stripe.RawErrorType` type exports that were inadvertently dropped in the v22 type system migration.\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.3.1/CHANGELOG.md).\n"
+    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.3.2",
+    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.3.2",
+    "body": "* [#2784](https://github.com/stripe/stripe-node/pull/2784) Replace source hash with Telemetry UUID\n* [#2783](https://github.com/stripe/stripe-node/pull/2783) Make Error fields generated\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.3.2/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-07-13T11:09:30Z"
+    "derniere_maj": "2026-07-20T10:50:45Z"
   }
 }
