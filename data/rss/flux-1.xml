@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Analyzing the evidence that helps businesses win “product not received” disputes</title>
+      <link>https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</link>
+      <description>To understand what can influence win rates, we analyzed evidence packets from one million disputes over a 16-week period. Here’s what the data shows and what it means for how you mitigate disputes.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3vypk0Ytlyr2remavexqoj/e6a58a7abd1166835b40c3d3d63881a4/index2-disputes.jpg"
+        length="545601"
+        type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</guid>
+      <dc:date>2026-07-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Four travel and hospitality trends from HITEC 2026</title>
       <link>https://stripe.com/blog/trends-from-hitec</link>
       <description>More than 6,000 hospitality executives and operators gathered in San Antonio last week for the HITEC conference. The big topic: whether the industry’s AI investment is actually working. Across four days and over 50 meetings, four trends stood out.</description>
@@ -100,17 +111,6 @@
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business</guid>
       <dc:date>2026-05-27T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Five vertical SaaS insights from Sessions 2026</title>
-      <link>https://stripe.com/blog/vertical-saas-insights-sessions-2026</link>
-      <description>AI is forcing platforms to expand beyond pure software. See how vertical SaaS platforms are using payments, financial services, and agentic commerce to build more durable businesses.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6cEmsrSa4sI1LamZFsHMdv/437806562a9b76619e3b2f981e0c6938/Index_image_NEW.png"
-        length="107332"
-        type="image/png"/>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/vertical-saas-insights-sessions-2026</guid>
-      <dc:date>2026-05-11T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
