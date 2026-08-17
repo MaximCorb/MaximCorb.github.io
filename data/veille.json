@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-08-10T05:54:45Z",
-    "pushed_at": "2026-08-08T02:39:23Z",
+    "updated_at": "2026-08-15T23:11:34Z",
+    "pushed_at": "2026-08-15T03:40:40Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 37314,
-    "stargazers_count": 4481,
-    "watchers_count": 4481,
+    "size": 37611,
+    "stargazers_count": 4483,
+    "watchers_count": 4483,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 929,
+    "forks_count": 928,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 43,
+    "open_issues_count": 47,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 929,
-    "open_issues": 43,
-    "watchers": 4481,
+    "forks": 928,
+    "open_issues": 47,
+    "watchers": 4483,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -137,16 +137,16 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 929,
+    "network_count": 928,
     "subscribers_count": 85
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4481,
-      "forks": 929,
-      "issues": 43
+      "stars": 4483,
+      "forks": 928,
+      "issues": 47
     },
     {
       "nom": "PayPal-PHP-SDK",
@@ -160,12 +160,11 @@
       "repo": "mollie/mollie-api-php",
       "stars": 603,
       "forks": 199,
-      "issues": 3
+      "issues": 4
     }
   ],
   "commits": {
     "all": [
-      0,
       0,
       6,
       0,
@@ -216,7 +215,8 @@
       4,
       1,
       2,
-      7
+      7,
+      2
     ],
     "owner": [
       0,
@@ -274,48 +274,48 @@
     ]
   },
   "release": {
-    "url": "https://api.github.com/repos/stripe/stripe-node/releases/362104631",
-    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/362104631/assets",
-    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/362104631/assets{?name,label}",
-    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.4.0",
-    "id": 362104631,
+    "url": "https://api.github.com/repos/stripe/stripe-node/releases/368224724",
+    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/368224724/assets",
+    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/368224724/assets{?name,label}",
+    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.5.0",
+    "id": 368224724,
     "author": {
-      "login": "jar-stripe",
-      "id": 179854761,
-      "node_id": "U_kgDOCrhdqQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/179854761?v=4",
+      "login": "xavdid",
+      "id": 1231935,
+      "node_id": "MDQ6VXNlcjEyMzE5MzU=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1231935?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/jar-stripe",
-      "html_url": "https://github.com/jar-stripe",
-      "followers_url": "https://api.github.com/users/jar-stripe/followers",
-      "following_url": "https://api.github.com/users/jar-stripe/following{/other_user}",
-      "gists_url": "https://api.github.com/users/jar-stripe/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/jar-stripe/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/jar-stripe/subscriptions",
-      "organizations_url": "https://api.github.com/users/jar-stripe/orgs",
-      "repos_url": "https://api.github.com/users/jar-stripe/repos",
-      "events_url": "https://api.github.com/users/jar-stripe/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/jar-stripe/received_events",
+      "url": "https://api.github.com/users/xavdid",
+      "html_url": "https://github.com/xavdid",
+      "followers_url": "https://api.github.com/users/xavdid/followers",
+      "following_url": "https://api.github.com/users/xavdid/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xavdid/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xavdid/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xavdid/subscriptions",
+      "organizations_url": "https://api.github.com/users/xavdid/orgs",
+      "repos_url": "https://api.github.com/users/xavdid/repos",
+      "events_url": "https://api.github.com/users/xavdid/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xavdid/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOACW3fM4VlUc3",
-    "tag_name": "v22.4.0",
+    "node_id": "RE_kwDOACW3fM4V8qnU",
+    "tag_name": "v22.5.0",
     "target_commitish": "master",
-    "name": "v22.4.0",
+    "name": "v22.5.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-07-29T23:33:18Z",
-    "updated_at": "2026-07-29T23:33:24Z",
-    "published_at": "2026-07-29T23:33:24Z",
+    "created_at": "2026-08-10T22:12:32Z",
+    "updated_at": "2026-08-10T22:12:39Z",
+    "published_at": "2026-08-10T22:12:39Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.4.0",
-    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.4.0",
-    "body": "This release changes the pinned API version to 2026-07-29.dahlia.\n\n* [#2795](https://github.com/stripe/stripe-node/pull/2795) Update generated code\n  * Add support for new resource `FinancialConnections.Authorization`\n  * Add support for `unreject` method on resource `Account`\n  * Add support for `list` method on resource `PaymentRecord`\n  * Add support for `administrative_address` and `principal_place_of_business` on `Account.company`, `AccountCreateParams.company`, `AccountUpdateParams.company`, and `TokenCreateParams.account.company`\n  * Add support for `sepa_debit_payments` on `AccountUpdateParams.settings`\n  * Remove support for `proof_of_registration` on `AccountCreateParams.documents`.  This field was limited-use and is being deprecated.\n  * Add support for `payouts_action` on `AccountRejectParams`\n  * Add support for new values `mass_transit_parking_tax` and `parking_tax` on enums `Tax.Calculation.shipping_cost.tax_breakdown[].tax_rate_details.tax_type`, `Tax.Calculation.tax_breakdown[].tax_rate_details.tax_type`, `Tax.CalculationLineItem.tax_breakdown[].tax_rate_details.tax_type`, and `Tax.Transaction.shipping_cost.tax_breakdown[].tax_rate_details.tax_type`\n  * Add support for new value `chaps` on enums `FundingInstructions.bank_transfer.financial_addresses[].supported_networks` and `PaymentIntent.next_action.display_bank_transfer_instructions.financial_addresses[].supported_networks`\n  * Add support for `smart_disputes_management` on `AccountSession.components.disputes_list.features`, `AccountSession.components.payment_details.features`, `AccountSession.components.payment_disputes.features`, `AccountSession.components.payments.features`, `AccountSessionCreateParams.components.disputes_list.features`, `AccountSessionCreateParams.components.payment_details.features`, `AccountSessionCreateParams.components.payment_disputes.features`, and `AccountSessionCreateParams.components.payments.features`\n  * Add support for new value `data_share_only` on enums `Charge.payment_method_details.card.three_d_secure.result`, `PaymentAttemptRecord.payment_method_details.card.three_d_secure.result`, `PaymentRecord.payment_method_details.card.three_d_secure.result`, and `SetupAttempt.payment_method_details.card.three_d_secure.result`\n  * Add support for new values `bnp_paribas`, `citibank`, and `mbsb_bank` on enums `Charge.payment_method_details.fpx.bank`, `ConfirmationToken.payment_method_preview.fpx.bank`, `PaymentAttemptRecord.payment_method_details.fpx.bank`, `PaymentMethod.fpx.bank`, and `PaymentRecord.payment_method_details.fpx.bank`\n  * Remove support for `dynamic_tax_rates` on `Checkout.SessionCreateParams.line_items[]`.  This field was limited-use and is being deprecated.\n  * Add support for `setup_future_usage` on `Checkout.Session.payment_method_options.payco`, `Checkout.Session.payment_method_options.samsung_pay`, `Checkout.SessionCreateParams.payment_method_options.payco`, `Checkout.SessionCreateParams.payment_method_options.samsung_pay`, `PaymentIntent.payment_method_options.payco`, `PaymentIntent.payment_method_options.samsung_pay`, `PaymentIntentConfirmParams.payment_method_options.payco`, `PaymentIntentConfirmParams.payment_method_options.samsung_pay`, `PaymentIntentCreateParams.payment_method_options.payco`, `PaymentIntentCreateParams.payment_method_options.samsung_pay`, `PaymentIntentUpdateParams.payment_method_options.payco`, `PaymentIntentUpdateParams.payment_method_options.samsung_pay`, and `PaymentLinkUpdateParams.payment_intent_data`\n  * Add support for new value `ic_nif` on enums `Checkout.Session.customer_details.tax_ids[].type`, `Invoice.customer_tax_ids[].type`, `Tax.Calculation.customer_details.tax_ids[].type`, `Tax.Transaction.customer_details.tax_ids[].type`, and `TaxId.type`\n  * Add support for new values `bnp_paribas`, `citibank`, and `mbsb_bank` on enums `ConfirmationTokenCreateParams.testHelpers.payment_method_data.fpx.bank`, `PaymentIntentConfirmParams.payment_method_data.fpx.bank`, `PaymentIntentCreateParams.payment_method_data.fpx.bank`, `PaymentIntentUpdateParams.payment_method_data.fpx.bank`, `PaymentMethodCreateParams.fpx.bank`, `SetupIntentConfirmParams.payment_method_data.fpx.bank`, `SetupIntentCreateParams.payment_method_data.fpx.bank`, and `SetupIntentUpdateParams.payment_method_data.fpx.bank`\n  * Add support for new value `ic_nif` on enums `CustomerCreateParams.tax_id_data[].type`, `CustomerCreateTaxIdParams.type`, `InvoiceCreatePreviewParams.customer_details.tax_ids[].type`, `Tax.CalculationCreateParams.customer_details.tax_ids[].type`, and `TaxIdCreateParams.type`\n  * Add support for `network` on `Dispute.payment_method_details.card`\n  * Add support for new values `financial_connections.account.expected_deactivation_date_updated`, `financial_connections.account.supported_payment_method_types_updated`, `financial_connections.account.upcoming_deactivation`, `financial_connections.authorization.expected_deactivation_date_updated`, and `financial_connections.authorization.upcoming_deactivation` on enum `Event.type`\n  * Add support for `limits` and `manual_entry` on `FinancialConnections.SessionCreateParams` and `FinancialConnections.Session`\n  * Add support for `require_payment_method_support` on `FinancialConnections.Session.filters` and `FinancialConnections.SessionCreateParams.filters`\n  * Add support for `bank_account_token` on `FinancialConnections.Session`\n  * Add support for new values `alipay` and `mb_way` on enums `Invoice.payment_settings.payment_method_types`, `InvoiceCreateParams.payment_settings.payment_method_types`, `InvoiceUpdateParams.payment_settings.payment_method_types`, `Subscription.payment_settings.payment_method_types`, `SubscriptionCreateParams.payment_settings.payment_method_types`, and `SubscriptionUpdateParams.payment_settings.payment_method_types`\n  * Add support for new values `mass_transit_parking_tax` and `parking_tax` on enums `InvoiceAddLinesParams.lines[].tax_amounts[].tax_rate_data.tax_type`, `InvoiceLineItemUpdateParams.tax_amounts[].tax_rate_data.tax_type`, `InvoiceUpdateLinesParams.lines[].tax_amounts[].tax_rate_data.tax_type`, `TaxRate.tax_type`, `TaxRateCreateParams.tax_type`, and `TaxRateUpdateParams.tax_type`\n  * Add support for `metadata` on `InvoiceCreatePreviewParams.subscription_details`\n  * Add support for new value `stripe_internal_error` on enum `Issuing.Authorization.request_history[].reason`\n  * Add support for `business_name` on `Issuing.Card.shipping`, `Issuing.CardCreateParams.shipping`, and `Issuing.CardUpdateParams.shipping`\n  * Add support for new value `correos` on enum `Issuing.Card.shipping.carrier`\n  * Add support for `allowed_payment_method_types` on `PaymentIntentConfirmParams`, `PaymentIntentCreateParams`, `PaymentIntentUpdateParams`, `PaymentIntent`, `SetupIntentConfirmParams`, `SetupIntentCreateParams`, `SetupIntentUpdateParams`, and `SetupIntent`\n  * Add support for `referrer` on `PaymentIntentConfirmParams.radar_options` and `PaymentIntentCreateParams.radar_options`\n  * Add support for `consent_collection` and `shipping_options` on `PaymentLinkUpdateParams`\n  * Add support for `custom_fields`, `description`, and `footer` on `Quote.invoice_settings`, `QuoteCreateParams.invoice_settings`, `QuoteUpdateParams.invoice_settings`, `SubscriptionSchedule.default_settings.invoice_settings`, `SubscriptionSchedule.phases[].invoice_settings`, `SubscriptionScheduleCreateParams.default_settings.invoice_settings`, `SubscriptionScheduleCreateParams.phases[].invoice_settings`, `SubscriptionScheduleUpdateParams.default_settings.invoice_settings`, and `SubscriptionScheduleUpdateParams.phases[].invoice_settings`\n  * Add support for `customer_account` and `customer` on `Refund`\n  * Add support for `payment_method` on `Refund` and `Topup`\n  * Add support for `trial` on `SubscriptionSchedule.phases[]`\n  * Add support for `mass_transit_parking_tax` and `parking_tax` on `Tax.Registration.country_options.us` and `Tax.RegistrationCreateParams.country_options.us`\n  * Add support for new values `mass_transit_parking_tax` and `parking_tax` on enum `Tax.RegistrationCreateParams.country_options.us.type`\n  * Add support for new values `mass_transit_parking_tax` and `parking_tax` on enum `Tax.Registration.country_options.us.type`\n  * Add support for `initiated_by` and `payment_method_options` on `Topup`\n  * Add support for new values `financial_connections.account.expected_deactivation_date_updated`, `financial_connections.account.supported_payment_method_types_updated`, `financial_connections.account.upcoming_deactivation`, `financial_connections.authorization.expected_deactivation_date_updated`, and `financial_connections.authorization.upcoming_deactivation` on enums `WebhookEndpointCreateParams.enabled_events` and `WebhookEndpointUpdateParams.enabled_events`\n  * Add support for new value `2026-07-29.dahlia` on enum `WebhookEndpointCreateParams.api_version`\n  * Add support for `additional_addresses` on `V2.Core.Account.identity.business_details`, `V2.Core.AccountCreateParams.identity.business_details`, `V2.Core.AccountTokenCreateParams.identity.business_details`, and `V2.Core.AccountUpdateParams.identity.business_details`\n  * Add support for snapshot events `FinancialConnectionsAccountExpectedDeactivationDateUpdatedEvent`, `FinancialConnectionsAccountSupportedPaymentMethodTypesUpdatedEvent`, and `FinancialConnectionsAccountUpcomingDeactivationEvent` with resource `FinancialConnections.Account`\n  * Add support for snapshot events `FinancialConnectionsAuthorizationExpectedDeactivationDateUpdatedEvent` and `FinancialConnectionsAuthorizationUpcomingDeactivationEvent` with resource `FinancialConnections.Authorization`\n* [#2790](https://github.com/stripe/stripe-node/pull/2790) Bump brace-expansion from 1.1.11 to 1.1.16\n* [#2786](https://github.com/stripe/stripe-node/pull/2786) Adds shared OtherString type to better annotate non-exhaustive enums\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.4.0/CHANGELOG.md).\n"
+    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.5.0",
+    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.5.0",
+    "body": "* [#2805](https://github.com/stripe/stripe-node/pull/2805) Emit Claude Code plugin hint at module load time\n  - Emits new Claude Code plugin hint when `CLAUDECODE` or `CLAUDE_CODE_CHILD_SESSION` environment variables are detected.\n* [#2794](https://github.com/stripe/stripe-node/pull/2794) add/adjust event parsing helpers\n  \n  - Added methods that return their respective `Event`/`EventNotification` objects without verifying authenticity. Use them when you've previously verified an event (e.g. you verified, put the event in a queue, and are now processing). Supports events from [AWS EventBridge](https://docs.stripe.com/event-destinations/eventbridge) and [Azure Event Grid](https://docs.stripe.com/event-destinations/eventgrid) natively.\n    - `stripe.webhooks.constructEventWithoutVerification(payload)`\n    - `stripe.constructEventWithoutVerification(payload)`\n    - `stripe.parseEventNotificationWithoutVerification(payload)`\n* [#2799](https://github.com/stripe/stripe-node/pull/2799) Add `stripe.major_api_version` constant\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.5.0/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-08-10T09:18:53Z"
+    "derniere_maj": "2026-08-17T08:40:51Z"
   }
 }

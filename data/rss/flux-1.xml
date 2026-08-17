@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Mapping the AI economy</title>
+      <link>https://stripe.com/blog/mapping-the-ai-economy</link>
+      <description>AI companies are undergoing rapid global expansion while achieving unprecedented rates of growth. We analyzed Stripe data to understand where global demand is the strongest, and how companies can build to best capture that demand.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3zq67gzl09NDsPhwwSKpiS/420f8b42b6aff303aa6293fbc6ff3283/Hero_image_optimized_for_ratio_bigger_labels_darker_bigger_disclaimer_3x.png"
+        length="2442378"
+        type="image/png"/>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/mapping-the-ai-economy</guid>
+      <dc:date>2026-08-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Analyzing the evidence that helps businesses win “product not received” disputes</title>
       <link>https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</link>
       <description>To understand what can influence win rates, we analyzed evidence packets from one million disputes over a 16-week period. Here’s what the data shows and what it means for how you mitigate disputes.</description>
@@ -100,17 +111,6 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/top-solo-founder-traits</guid>
       <dc:date>2026-05-28T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Expanding Stripe Radar to protect more of your business</title>
-      <link>https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business</link>
-      <description>Radar now blocks high-risk transactions across all supported payment methods; defends against new fraud types like multi-account abuse and pay-as-you-go abuse, regardless of which payment processor you use; and gives platforms new tools to evaluate and mitigate merchant risk on and off Stripe.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/2FSmdXVwwuymT0YfmIXxfq/aeadbd7af5e4620151924efbf9cdf6ad/radar-index.jpg"
-        length="475840"
-        type="image/jpeg"/>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business</guid>
-      <dc:date>2026-05-27T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
