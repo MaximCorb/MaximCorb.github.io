@@ -9,6 +9,40 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Five monetization trends from global pricing leaders </title>
+      <link>https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders</link>
+      <description>As AI transforms software economics, the standard revenue playbook is breaking down. Learn how leaders around the world are preparing for agent buyers, updating processes for faster pricing iteration, and building more flexible infrastructure.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/7AILd6YY3INBk4QCI4LaTx/1842bb0154e43c182f1c26a8cf7f8a4e/Monitization_trends_index.png"
+        length="1074923"
+        type="image/png"/>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders</guid>
+      <dc:date>2026-08-20T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Why global workers are driving demand for stablecoin payouts</title>
+      <link>https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts</link>
+      <description>Platforms like DoorDash, Meta, and Deel already enable stablecoin payouts for global workers. We surveyed 2,300 workers in 20 countries to see what's driving stablecoin demand, where the opportunity is highest, and how other platforms can adapt.
+</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/wRqifAA3sZ1z3kJIX2UKM/8f2619305be2fe7039bf68c26429a8c1/Blog_index_image_1250x1250_2x.png"
+        length="1436546"
+        type="image/png"/>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts</guid>
+      <dc:date>2026-08-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>New currency capabilities for global businesses to cut FX costs </title>
+      <link>https://stripe.com/blog/reduce-fx-costs-with-stripe</link>
+      <description>Two product upgrades make it easy for global businesses to manage FX entirely on Stripe. We’re expanding multicurrency settlement to more markets and currencies, and we’re introducing the ability to convert currencies instantly—all on Stripe. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/7xgfnyZq3lIBjWIuhI5cph/a0cc8cc59d2b78c690252633e9fb33e3/Blog___Index_new__1250_x_1250_.png"
+        length="648770"
+        type="image/png"/>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/reduce-fx-costs-with-stripe</guid>
+      <dc:date>2026-08-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Mapping the AI economy</title>
       <link>https://stripe.com/blog/mapping-the-ai-economy</link>
       <description>AI companies are undergoing rapid global expansion while achieving unprecedented rates of growth. We analyzed Stripe data to understand where global demand is the strongest, and how companies can build to best capture that demand.</description>
@@ -81,36 +115,6 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH</guid>
       <dc:date>2026-06-04T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Rethinking risk in the age of AI</title>
-      <link>https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH</link>
-      <description>Join senior risk and payments leaders in Seattle to explore how AI is reshaping fraud strategy. Seats are limited. </description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH</guid>
-      <dc:date>2026-06-04T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Helping businesses optimize network costs with the Visa Digital Commerce Authentication Program (DCAP)</title>
-      <link>https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program</link>
-      <description>We moved quickly to help Stripe businesses take advantage of DCAP and capture interchange savings while protecting authorization rates. Here’s what we did.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/JzGrj59MBDaLNm9e1akgN/e43d83ae9015d74511b815aadec81ee9/dcap-index-2.jpg"
-        length="2043759"
-        type="image/jpeg"/>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program</guid>
-      <dc:date>2026-06-03T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Solo founding is at an all-time high: Top performers have these traits in common</title>
-      <link>https://stripe.com/blog/top-solo-founder-traits</link>
-      <description>In 2025, solo founders in the top decile generated 61 times the revenue of the median solo founder in their first six months. We analyzed the data to understand what drives that gap.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3YiEqV9ZoR97PiMWsrHnVE/c44cc91c0be0ed35d4c024609a1a097a/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding__1_.png"
-        length="69390"
-        type="image/png"/>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/top-solo-founder-traits</guid>
-      <dc:date>2026-05-28T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>

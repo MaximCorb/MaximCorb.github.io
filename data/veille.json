@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-08-15T23:11:34Z",
-    "pushed_at": "2026-08-15T03:40:40Z",
+    "updated_at": "2026-08-30T18:44:40Z",
+    "pushed_at": "2026-08-31T15:30:01Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 37611,
-    "stargazers_count": 4483,
-    "watchers_count": 4483,
+    "size": 38058,
+    "stargazers_count": 4498,
+    "watchers_count": 4498,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 928,
+    "forks_count": 929,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 47,
+    "open_issues_count": 44,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 928,
-    "open_issues": 47,
-    "watchers": 4483,
+    "forks": 929,
+    "open_issues": 44,
+    "watchers": 4498,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -137,16 +137,16 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 928,
+    "network_count": 929,
     "subscribers_count": 85
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4483,
-      "forks": 928,
-      "issues": 47
+      "stars": 4498,
+      "forks": 929,
+      "issues": 44
     },
     {
       "nom": "PayPal-PHP-SDK",
@@ -158,15 +158,13 @@
     {
       "nom": "mollie-api-php",
       "repo": "mollie/mollie-api-php",
-      "stars": 603,
-      "forks": 199,
+      "stars": 605,
+      "forks": 200,
       "issues": 4
     }
   ],
   "commits": {
     "all": [
-      0,
-      6,
       0,
       1,
       0,
@@ -216,7 +214,9 @@
       1,
       2,
       7,
-      2
+      2,
+      3,
+      6
     ],
     "owner": [
       0,
@@ -274,11 +274,11 @@
     ]
   },
   "release": {
-    "url": "https://api.github.com/repos/stripe/stripe-node/releases/368224724",
-    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/368224724/assets",
-    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/368224724/assets{?name,label}",
-    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.5.0",
-    "id": 368224724,
+    "url": "https://api.github.com/repos/stripe/stripe-node/releases/377560565",
+    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/377560565/assets",
+    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/377560565/assets{?name,label}",
+    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.6.0",
+    "id": 377560565,
     "author": {
       "login": "xavdid",
       "id": 1231935,
@@ -300,22 +300,22 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOACW3fM4V8qnU",
-    "tag_name": "v22.5.0",
+    "node_id": "RE_kwDOACW3fM4WgR31",
+    "tag_name": "v22.6.0",
     "target_commitish": "master",
-    "name": "v22.5.0",
+    "name": "v22.6.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-08-10T22:12:32Z",
-    "updated_at": "2026-08-10T22:12:39Z",
-    "published_at": "2026-08-10T22:12:39Z",
+    "created_at": "2026-08-27T04:14:40Z",
+    "updated_at": "2026-08-27T04:14:46Z",
+    "published_at": "2026-08-27T04:14:46Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.5.0",
-    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.5.0",
-    "body": "* [#2805](https://github.com/stripe/stripe-node/pull/2805) Emit Claude Code plugin hint at module load time\n  - Emits new Claude Code plugin hint when `CLAUDECODE` or `CLAUDE_CODE_CHILD_SESSION` environment variables are detected.\n* [#2794](https://github.com/stripe/stripe-node/pull/2794) add/adjust event parsing helpers\n  \n  - Added methods that return their respective `Event`/`EventNotification` objects without verifying authenticity. Use them when you've previously verified an event (e.g. you verified, put the event in a queue, and are now processing). Supports events from [AWS EventBridge](https://docs.stripe.com/event-destinations/eventbridge) and [Azure Event Grid](https://docs.stripe.com/event-destinations/eventgrid) natively.\n    - `stripe.webhooks.constructEventWithoutVerification(payload)`\n    - `stripe.constructEventWithoutVerification(payload)`\n    - `stripe.parseEventNotificationWithoutVerification(payload)`\n* [#2799](https://github.com/stripe/stripe-node/pull/2799) Add `stripe.major_api_version` constant\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.5.0/CHANGELOG.md).\n"
+    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.6.0",
+    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.6.0",
+    "body": "This release changes the pinned API version to 2026-08-26.dahlia.\n\n* [#2801](https://github.com/stripe/stripe-node/pull/2801) Add discriminatedUnion kind to V2RuntimeSchema coercion\n  \n  - Adds runtime support for coercing int64/decimal fields within discriminated union variants in V2 API requests and responses.\n  - ⚠️ Throws when serializing a discriminated union parameter whose discriminator is missing or is not a string. This avoids skipping coercion entirely which could silently truncate `int64` fields above `Number.MAX_SAFE_INTEGER`.\n* [#2818](https://github.com/stripe/stripe-node/pull/2818) Add new `EventNotificationHandler` class for better thin event management\n  \n  - We've been putting a lot of time into rethinking the event handling experience in the SDKs. This new class is the culmination [of that effort](https://stripe.dev/blog/event-notification-handlers-thin-events).\n  - They're designed for a tight coupling with both `StripeClient` and the fully-typed nature of [thin events](https://docs.stripe.com/event-destinations#thin-events). This delivers painless event destination upgrades, in-editor checks for common mistakes, and better code modularity.\n  - Now that we've released [thin event notifications for v1 objects](https://docs.stripe.com/changelog#2026-08-26.dahlia), these new handlers are our recommended path for all integrations using thin event notifications.\n  - See more detailed docs here: https://docs.stripe.com/webhooks/event-notification-handlers\n* [#2815](https://github.com/stripe/stripe-node/pull/2815) correctly throw connection errors if the server drops while sending the HTTP response body\n  \n  - This change results in new exceptions being thrown instead of hanging indefinitely\n  - in an effort to make this change backwards compatible, it doesn't affect a case that was already throwing an error: if the stripe API sends invalid JSON, we were treating it as an API error instead of a connection error.\n      - In the next major version, we'll change the exception thrown from `StripeAPIError` to `StripeConnectionError` and document it accordingly.\n* [#2812](https://github.com/stripe/stripe-node/pull/2812) Update generated code\n  * Add support for new resource `Billing.FeedbackOption`\n  * Add support for `create`, `deactivate`, `list`, `retrieve`, and `update` methods on resource `Billing.FeedbackOption`\n  * Add support for `payment_method_settings` on `AccountSession.components` and `AccountSessionCreateParams.components`\n  * Add support for `feedback_options` on `BillingPortal.Configuration.features.subscription_cancel.cancellation_reason`, `BillingPortal.ConfigurationCreateParams.features.subscription_cancel.cancellation_reason`, and `BillingPortal.ConfigurationUpdateParams.features.subscription_cancel.cancellation_reason`\n  * Add support for new value `customer_update` on enums `BillingPortal.Session.flow.type` and `BillingPortal.SessionCreateParams.flow_data.type`\n  * Add support for `customer_update` on `BillingPortal.Session.flow`\n  * Add support for `funding_source_group` on `Charge.payment_method_details.card.wallet.link` and `Charge.payment_method_details.link`\n  * Add support for `funding_types_blocked` on `Checkout.Session.payment_method_options.card.restrictions` and `Checkout.SessionCreateParams.payment_method_options.card.restrictions`\n  * Add support for `metadata` on `ConfirmationToken`\n  * Add support for `active_entitlements` and `customer_portal` on `CustomerSession.components` and `CustomerSessionCreateParams.components`\n  * Add support for `country` on `FinancialConnections.Session.filters`\n  * Add support for `frozen_fields` on `InvoiceItem`\n  * Add support for `billie` on `Invoice.payment_settings.payment_method_options`, `InvoiceCreateParams.payment_settings.payment_method_options`, `InvoiceUpdateParams.payment_settings.payment_method_options`, `Subscription.payment_settings.payment_method_options`, `SubscriptionCreateParams.payment_settings.payment_method_options`, and `SubscriptionUpdateParams.payment_settings.payment_method_options`\n  * Add support for new value `billie` on enums `Invoice.payment_settings.payment_method_types`, `InvoiceCreateParams.payment_settings.payment_method_types`, `InvoiceUpdateParams.payment_settings.payment_method_types`, `Subscription.payment_settings.payment_method_types`, `SubscriptionCreateParams.payment_settings.payment_method_types`, and `SubscriptionUpdateParams.payment_settings.payment_method_types`\n  * ⚠️ Remove support for `cryptogram` on `PaymentAttemptRecord.payment_method_details.card.three_d_secure` and `PaymentRecord.payment_method_details.card.three_d_secure`\n  * Add support for new value `touch_n_go` on enums `PaymentIntent.allowed_payment_method_types`, `PaymentIntentConfirmParams.allowed_payment_method_types`, `PaymentIntentCreateParams.allowed_payment_method_types`, `PaymentIntentUpdateParams.allowed_payment_method_types`, `SetupIntent.allowed_payment_method_types`, `SetupIntentConfirmParams.allowed_payment_method_types`, `SetupIntentCreateParams.allowed_payment_method_types`, and `SetupIntentUpdateParams.allowed_payment_method_types`\n  * Change `PaymentIntent.allowed_payment_method_types` and `SetupIntent.allowed_payment_method_types` to be required\n  * Add support for `application_fee_amount`, `application_fee_percent`, `on_behalf_of`, and `transfer_data` on `PaymentLinkUpdateParams`\n  * Add support for `feedback_option` on `Subscription.cancellation_details`, `SubscriptionCancelParams.cancellation_details`, and `SubscriptionUpdateParams.cancellation_details`\n  * Add support for `igic` on `Tax.Registration.country_options.at`, `Tax.Registration.country_options.be`, `Tax.Registration.country_options.bg`, `Tax.Registration.country_options.cy`, `Tax.Registration.country_options.cz`, `Tax.Registration.country_options.de`, `Tax.Registration.country_options.dk`, `Tax.Registration.country_options.ee`, `Tax.Registration.country_options.es`, `Tax.Registration.country_options.fi`, `Tax.Registration.country_options.fr`, `Tax.Registration.country_options.gr`, `Tax.Registration.country_options.hr`, `Tax.Registration.country_options.hu`, `Tax.Registration.country_options.ie`, `Tax.Registration.country_options.it`, `Tax.Registration.country_options.lt`, `Tax.Registration.country_options.lu`, `Tax.Registration.country_options.lv`, `Tax.Registration.country_options.mt`, `Tax.Registration.country_options.nl`, `Tax.Registration.country_options.pl`, `Tax.Registration.country_options.pt`, `Tax.Registration.country_options.ro`, `Tax.Registration.country_options.se`, `Tax.Registration.country_options.si`, `Tax.Registration.country_options.sk`, `Tax.RegistrationCreateParams.country_options.at`, `Tax.RegistrationCreateParams.country_options.be`, `Tax.RegistrationCreateParams.country_options.bg`, `Tax.RegistrationCreateParams.country_options.cy`, `Tax.RegistrationCreateParams.country_options.cz`, `Tax.RegistrationCreateParams.country_options.de`, `Tax.RegistrationCreateParams.country_options.dk`, `Tax.RegistrationCreateParams.country_options.ee`, `Tax.RegistrationCreateParams.country_options.es`, `Tax.RegistrationCreateParams.country_options.fi`, `Tax.RegistrationCreateParams.country_options.fr`, `Tax.RegistrationCreateParams.country_options.gr`, `Tax.RegistrationCreateParams.country_options.hr`, `Tax.RegistrationCreateParams.country_options.hu`, `Tax.RegistrationCreateParams.country_options.ie`, `Tax.RegistrationCreateParams.country_options.it`, `Tax.RegistrationCreateParams.country_options.lt`, `Tax.RegistrationCreateParams.country_options.lu`, `Tax.RegistrationCreateParams.country_options.lv`, `Tax.RegistrationCreateParams.country_options.mt`, `Tax.RegistrationCreateParams.country_options.nl`, `Tax.RegistrationCreateParams.country_options.pl`, `Tax.RegistrationCreateParams.country_options.pt`, `Tax.RegistrationCreateParams.country_options.ro`, `Tax.RegistrationCreateParams.country_options.se`, `Tax.RegistrationCreateParams.country_options.si`, and `Tax.RegistrationCreateParams.country_options.sk`\n  * Add support for new value `2026-08-26.dahlia` on enum `WebhookEndpointCreateParams.api_version`\n  * Add support for error codes `authentication_failure`, `capability_not_active`, `expired_payment_method`, `incorrect_postal_code`, `invalid_canceled_subscription_fields`, and `payment_method_restricted` on `Invoice.last_finalization_error`, `PaymentIntent.last_payment_error`, `SetupAttempt.setup_error`, `SetupIntent.last_setup_error`, `StripeError`, and `Terminal.Reader.action.api_error`\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.6.0/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-08-17T08:40:51Z"
+    "derniere_maj": "2026-08-31T15:51:31Z"
   }
 }
