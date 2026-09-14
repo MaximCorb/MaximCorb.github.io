@@ -67,14 +67,14 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-09-05T16:45:37Z",
-    "pushed_at": "2026-09-07T12:41:58Z",
+    "updated_at": "2026-09-13T22:12:37Z",
+    "pushed_at": "2026-09-13T22:45:49Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 38409,
+    "size": 39601,
     "stargazers_count": 4503,
     "watchers_count": 4503,
     "language": "TypeScript",
@@ -88,7 +88,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 42,
+    "open_issues_count": 48,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -107,13 +107,13 @@
     ],
     "visibility": "public",
     "forks": 934,
-    "open_issues": 42,
+    "open_issues": 48,
     "watchers": 4503,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
       "category": "Client library",
-      "jira": "n/a",
+      "jira": "DEVSDK",
       "project": "developer_sdks"
     },
     "organization": {
@@ -138,7 +138,7 @@
       "site_admin": false
     },
     "network_count": 934,
-    "subscribers_count": 86
+    "subscribers_count": 87
   },
   "comparaison": [
     {
@@ -146,7 +146,7 @@
       "repo": "stripe/stripe-node",
       "stars": 4503,
       "forks": 934,
-      "issues": 42
+      "issues": 48
     },
     {
       "nom": "PayPal-PHP-SDK",
@@ -159,13 +159,12 @@
       "nom": "mollie-api-php",
       "repo": "mollie/mollie-api-php",
       "stars": 606,
-      "forks": 200,
+      "forks": 199,
       "issues": 4
     }
   ],
   "commits": {
     "all": [
-      1,
       0,
       7,
       14,
@@ -216,7 +215,8 @@
       2,
       3,
       6,
-      8
+      8,
+      2
     ],
     "owner": [
       0,
@@ -274,48 +274,48 @@
     ]
   },
   "release": {
-    "url": "https://api.github.com/repos/stripe/stripe-node/releases/380741412",
-    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/380741412/assets",
-    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/380741412/assets{?name,label}",
-    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.6.1",
-    "id": 380741412,
+    "url": "https://api.github.com/repos/stripe/stripe-node/releases/385849050",
+    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/385849050/assets",
+    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/385849050/assets{?name,label}",
+    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v22.6.2",
+    "id": 385849050,
     "author": {
-      "login": "zacchua-stripe",
-      "id": 235813349,
-      "node_id": "U_kgDODg455Q",
-      "avatar_url": "https://avatars.githubusercontent.com/u/235813349?v=4",
+      "login": "xavdid",
+      "id": 1231935,
+      "node_id": "MDQ6VXNlcjEyMzE5MzU=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1231935?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/zacchua-stripe",
-      "html_url": "https://github.com/zacchua-stripe",
-      "followers_url": "https://api.github.com/users/zacchua-stripe/followers",
-      "following_url": "https://api.github.com/users/zacchua-stripe/following{/other_user}",
-      "gists_url": "https://api.github.com/users/zacchua-stripe/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/zacchua-stripe/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/zacchua-stripe/subscriptions",
-      "organizations_url": "https://api.github.com/users/zacchua-stripe/orgs",
-      "repos_url": "https://api.github.com/users/zacchua-stripe/repos",
-      "events_url": "https://api.github.com/users/zacchua-stripe/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/zacchua-stripe/received_events",
+      "url": "https://api.github.com/users/xavdid",
+      "html_url": "https://github.com/xavdid",
+      "followers_url": "https://api.github.com/users/xavdid/followers",
+      "following_url": "https://api.github.com/users/xavdid/following{/other_user}",
+      "gists_url": "https://api.github.com/users/xavdid/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/xavdid/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/xavdid/subscriptions",
+      "organizations_url": "https://api.github.com/users/xavdid/orgs",
+      "repos_url": "https://api.github.com/users/xavdid/repos",
+      "events_url": "https://api.github.com/users/xavdid/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/xavdid/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOACW3fM4Wsack",
-    "tag_name": "v22.6.1",
+    "node_id": "RE_kwDOACW3fM4W_5ba",
+    "tag_name": "v22.6.2",
     "target_commitish": "master",
-    "name": "v22.6.1",
+    "name": "v22.6.2",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-09-01T20:16:22Z",
-    "updated_at": "2026-09-01T20:19:53Z",
-    "published_at": "2026-09-01T20:19:53Z",
+    "created_at": "2026-09-09T21:10:22Z",
+    "updated_at": "2026-09-09T21:10:28Z",
+    "published_at": "2026-09-09T21:10:28Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.6.1",
-    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.6.1",
-    "body": "* [#2831](https://github.com/stripe/stripe-node/pull/2831) Use cryptographically secure boundaries for multipart file uploads\r\n* [#2836](https://github.com/stripe/stripe-node/pull/2836) update OtherString docstring\r\n* [#2835](https://github.com/stripe/stripe-node/pull/2835) Fix request coercion for GET and DELETE parameters\r\n  - Fixes serialization of schema-coerced values, including `Decimal`, in GET and DELETE query parameters.\r\n* [#2829](https://github.com/stripe/stripe-node/pull/2829) Harden API requestor code against malicious URLs\r\n\r\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.6.1/CHANGELOG.md).\r\n"
+    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v22.6.2",
+    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v22.6.2",
+    "body": "* [#2841](https://github.com/stripe/stripe-node/pull/2841) Validate that webhook secrets are non-empty\n\nSee [the changelog for more details](https://github.com/stripe/stripe-node/blob/v22.6.2/CHANGELOG.md).\n"
   },
   "meta": {
-    "derniere_maj": "2026-09-07T13:59:22Z"
+    "derniere_maj": "2026-09-14T14:44:43Z"
   }
 }
