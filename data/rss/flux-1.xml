@@ -9,6 +9,39 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Analyzing rising fraud attempts among travel and leisure businesses on Stripe</title>
+      <link>https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe</link>
+      <description>Last year, Stripe data shows fraud attempts against travel and leisure businesses hit a four-year high. We analyzed payment activity from more than 200,000 active travel and leisure businesses on Stripe to understand where fraud is rising, how effectively it’s being blocked, and what businesses can do in response.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/msOow88CKXXHqlWSzckzs/a05f46fcd58edc95d1fa9cdb0ac7b052/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding_2x__2_.png"
+        length="3901027"
+        type="image/png"/>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe</guid>
+      <dc:date>2026-09-18T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>SaaS platforms are surging despite the SaaSpocalypse</title>
+      <link>https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse</link>
+      <description>The SaaSpocalypse was a useful warning for the software industry, but SaaS platforms that help businesses run core operations are more deeply embedded. New platform businesses on Stripe are up 182% year over year.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4eii8vuv5rIus0HNvlMEs6/1f5a15bc4f8dca9c66bec691f507befb/Specs__1250x1250px_with_100_padding_2x.png"
+        length="122383"
+        type="image/png"/>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse</guid>
+      <dc:date>2026-09-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>What Stripe data shows about fraud at AI startups</title>
+      <link>https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups</link>
+      <description>We analyzed attempted fraud rates and customer abuse patterns on Stripe over the past year and found that AI companies faced 4.3x more fraud attempts than startups overall in Q3 2025. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4RzPleRe5QheYPTOGMyzYe/6655f5d1499d7030e5b51fe5720d9a65/final-index.jpg"
+        length="525043"
+        type="image/jpeg"/>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups</guid>
+      <dc:date>2026-09-15T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Five monetization trends from global pricing leaders </title>
       <link>https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders</link>
       <description>As AI transforms software economics, the standard revenue playbook is breaking down. Learn how leaders around the world are preparing for agent buyers, updating processes for faster pricing iteration, and building more flexible infrastructure.</description>
@@ -85,36 +118,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/what-link-data-tells-us-about-ai-spending</guid>
       <dc:date>2026-06-18T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Stripe Projects adds new agent integrations, more providers, and custom developer controls</title>
-      <link>https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls</link>
-      <description>Our data shows that agents are now fully capable of independently writing code and integrating with APIs like Stripe’s. And yet, many of the steps adjacent to writing code are still too hard for agents to do on their own. We’re expanding Stripe Projects to solve this. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4mPcNGGQ44X1tyxR5NqLkf/c5c51591187eaebeb1291d662bee2356/projects-index.jpg"
-        length="3016779"
-        type="image/jpeg"/>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls</guid>
-      <dc:date>2026-06-11T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>New ways to turn global demand into revenue</title>
-      <link>https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue</link>
-      <description>At Sessions 2026, Stripe unveiled dozens of products and capabilities to help businesses turn global demand into revenue. See how to go global faster with localized checkout and Adaptive Pricing, smarter fraud tools, multicurrency treasury support, and automated tax compliance.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4U7BjI3CSDLJ5GSJRpNkIB/c6bcc4533280bfced4e2067247035319/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding_4.png"
-        length="326576"
-        type="image/png"/>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue</guid>
-      <dc:date>2026-06-04T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>The future of agentic commerce is here</title>
-      <link>https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH</link>
-      <description>Explore how AI agents are transforming commerce at Stripe’s Agentic Commerce Next roadshow. Reserve your spot in Seattle. </description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH</guid>
-      <dc:date>2026-06-04T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
