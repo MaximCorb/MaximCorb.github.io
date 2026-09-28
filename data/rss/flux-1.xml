@@ -9,6 +9,28 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Travel’s AI dilemma at Skift Global Forum</title>
+      <link>https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum</link>
+      <description>At the “great recalibration”-themed travel conference, Airbnb CEO Brian Chesky called AI “an existential risk” to his company and “literally the best thing to ever happen” to it in the same discussion. That sums up many travel leaders’ push-and-pull relationship with AI. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/42kKrzG4TiYUHyP5JqyTs4/92838da218c78955c0aad7542467a3e8/01_Index-1.png"
+        length="1593353"
+        type="image/png"/>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum</guid>
+      <dc:date>2026-09-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>New trends in global card fraud: How 3D Secure and regional mandates are affecting risk </title>
+      <link>https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk</link>
+      <description>We analyzed billions of transactions on Stripe from January 2022 to March 2026 to understand how card fraud patterns differ by region and country, what's driving those differences, and how businesses can respond. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1Ttw18lQFBzxo2wuqd2XlA/bbac418ecc8be77df011264faeb15b0f/regional-index.jpg"
+        length="2235582"
+        type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk</guid>
+      <dc:date>2026-09-22T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Analyzing rising fraud attempts among travel and leisure businesses on Stripe</title>
       <link>https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe</link>
       <description>Last year, Stripe data shows fraud attempts against travel and leisure businesses hit a four-year high. We analyzed payment activity from more than 200,000 active travel and leisure businesses on Stripe to understand where fraud is rising, how effectively it’s being blocked, and what businesses can do in response.</description>
@@ -96,28 +118,6 @@
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</guid>
       <dc:date>2026-07-21T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Four travel and hospitality trends from HITEC 2026</title>
-      <link>https://stripe.com/blog/trends-from-hitec</link>
-      <description>More than 6,000 hospitality executives and operators gathered in San Antonio last week for the HITEC conference. The big topic: whether the industry’s AI investment is actually working. Across four days and over 50 meetings, four trends stood out.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/5yStRoozmsf9LiDdy2hFc3/a941bc071d98e02d2781e61add6bb868/IMG_9096.jpg"
-        length="86257"
-        type="image/jpeg"/>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/trends-from-hitec</guid>
-      <dc:date>2026-06-23T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>What Link data tells us about AI spending</title>
-      <link>https://stripe.com/blog/what-link-data-tells-us-about-ai-spending</link>
-      <description>We analyzed spending patterns across the 250 million customers paying with Link. We found that Link customers are spending more on AI than they were three months prior, investing heavily in platforms that let them build with AI. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1d0PEqEHTGAp3Ovw1cwtq4/53bb4255b0aa7ae5c55f157acf96c53f/new-index.jpg"
-        length="461444"
-        type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/what-link-data-tells-us-about-ai-spending</guid>
-      <dc:date>2026-06-18T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
