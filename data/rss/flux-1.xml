@@ -9,6 +9,39 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Why I tried to kill token billing (and why we kept it)</title>
+      <link>https://stripe.com/blog/where-pricing-is-headed</link>
+      <description>Token billing is useful infrastructure, but usually a bad customer-facing pricing model. Your invoice should define the value your product delivers, not break down what it cost you to create it.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/429O97zRn17cvoY9EQIuoO/17adb35450f60d6ddd613c04cca873f4/1250x1250.jpg"
+        length="1025043"
+        type="image/jpeg"/>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/where-pricing-is-headed</guid>
+      <dc:date>2026-10-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>OUSD is now the default stablecoin on Stripe</title>
+      <link>https://stripe.com/blog/ousd-now-live-on-stripe</link>
+      <description>Open USD (OUSD), a stablecoin built for global money movement, is now available across Stripe. Businesses can use OUSD to manage funds, make payments, and offer new financial services.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/2YSRP4aCTTxIcUOn1lu4Qq/187eabba0a9b39e79b4c228b89812493/Square__4_.jpg"
+        length="583255"
+        type="image/jpeg"/>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/ousd-now-live-on-stripe</guid>
+      <dc:date>2026-09-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Helping personal agents shop more intelligently and reliably with Link </title>
+      <link>https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link</link>
+      <description>As agents take on more purchases, agent builders have increasingly asked us to help agents navigate checkout and earn consumer trust. Today, we’re sharing three major improvements to support this broader set of needs.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/259tRMFUDzwXlrETBMQId4/a6af0d366e1e601e70b52c7f071fa007/index-5.png"
+        length="554943"
+        type="image/png"/>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link</guid>
+      <dc:date>2026-09-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Travel’s AI dilemma at Skift Global Forum</title>
       <link>https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum</link>
       <description>At the “great recalibration”-themed travel conference, Airbnb CEO Brian Chesky called AI “an existential risk” to his company and “literally the best thing to ever happen” to it in the same discussion. That sums up many travel leaders’ push-and-pull relationship with AI. </description>
@@ -85,39 +118,6 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts</guid>
       <dc:date>2026-08-19T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>New currency capabilities for global businesses to cut FX costs </title>
-      <link>https://stripe.com/blog/reduce-fx-costs-with-stripe</link>
-      <description>Two product upgrades make it easy for global businesses to manage FX entirely on Stripe. We’re expanding multicurrency settlement to more markets and currencies, and we’re introducing the ability to convert currencies instantly—all on Stripe. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/7xgfnyZq3lIBjWIuhI5cph/a0cc8cc59d2b78c690252633e9fb33e3/Blog___Index_new__1250_x_1250_.png"
-        length="648770"
-        type="image/png"/>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/reduce-fx-costs-with-stripe</guid>
-      <dc:date>2026-08-17T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Mapping the AI economy</title>
-      <link>https://stripe.com/blog/mapping-the-ai-economy</link>
-      <description>AI companies are undergoing rapid global expansion while achieving unprecedented rates of growth. We analyzed Stripe data to understand where global demand is the strongest, and how companies can build to best capture that demand.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3zq67gzl09NDsPhwwSKpiS/420f8b42b6aff303aa6293fbc6ff3283/Hero_image_optimized_for_ratio_bigger_labels_darker_bigger_disclaimer_3x.png"
-        length="2442378"
-        type="image/png"/>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/mapping-the-ai-economy</guid>
-      <dc:date>2026-08-11T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Analyzing the evidence that helps businesses win “product not received” disputes</title>
-      <link>https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</link>
-      <description>To understand what can influence win rates, we analyzed evidence packets from one million disputes over a 16-week period. Here’s what the data shows and what it means for how you mitigate disputes.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3vypk0Ytlyr2remavexqoj/e6a58a7abd1166835b40c3d3d63881a4/index2-disputes.jpg"
-        length="545601"
-        type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes</guid>
-      <dc:date>2026-07-21T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
