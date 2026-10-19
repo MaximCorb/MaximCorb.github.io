@@ -9,6 +9,50 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Stripe survey: Four trends reshaping how SaaS platforms compete in the AI era</title>
+      <link>https://stripe.com/blog/saas-platform-trends-in-AI-era</link>
+      <description>AI is creating more SaaS competition, and platforms are feeling the pressure. A Stripe survey of 200 platform leaders shows how they plan to evolve pricing, grow revenue, and retain customers.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/3PIdC4MKe2BXnn4EY4vVNk/d461ea6886dd076a35f1313419f19f4d/4_ways_SaaS_platforms_are_evolving_in_the_age_of_AI_-_INDEX.png"
+        length="392431"
+        type="image/png"/>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/saas-platform-trends-in-AI-era</guid>
+      <dc:date>2026-10-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>New ways for fintechs to move money and expand globally</title>
+      <link>https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally</link>
+      <description>We’re introducing three updates to help fintechs launch products and grow internationally more easily: simpler payout management with Stripe Global Payouts, support for stablecoin cards in more countries, and unified APIs for building global financial products. </description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/eKftRVNsIvc86x4rTK06w/9f89d806876c97cb253098c787818baf/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding__2_.png"
+        length="432758"
+        type="image/png"/>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally</guid>
+      <dc:date>2026-10-16T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Sync real-time Stripe data to Postgres with Stripe Data Pipeline</title>
+      <link>https://stripe.com/blog/real-time-stripe-data-postgres</link>
+      <description>Applications rely on current Stripe data to fulfill orders, update customer accounts, and manage access to paid features. Until now, developers have had to build and maintain custom integrations to keep application databases in sync with Stripe. We’re introducing real-time sync to Postgres for Stripe Data Pipeline, which lets them keep databases current without having to build custom integrations.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/7BvPW4nQ9gdzqnXQNUaKbw/4d4152e6698fbe360fb753ff31ace6c2/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding.png"
+        length="150309"
+        type="image/png"/>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/real-time-stripe-data-postgres</guid>
+      <dc:date>2026-10-15T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The “alien” economics of AI monetization</title>
+      <link>https://stripe.com/blog/economics-of-ai-monetization</link>
+      <description>As usage, costs, and customer expectations change, AI companies are moving beyond traditional SaaS pricing. Leaders at Monetize 2026 shared how they’re combining subscriptions with usage-based billing, building spend controls into products, adapting packaging and value metrics, and making pricing readable for both human and AI buyers.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/6kxvuJDHvg9cCTNLuACl0o/64b5443480f21fa7ea93c3aded30b8ee/Index_image__-_Kyle.png"
+        length="2569680"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/economics-of-ai-monetization</guid>
+      <dc:date>2026-10-13T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Why I tried to kill token billing (and why we kept it)</title>
       <link>https://stripe.com/blog/where-pricing-is-headed</link>
       <description>Token billing is useful infrastructure, but usually a bad customer-facing pricing model. Your invoice should define the value your product delivers, not break down what it cost you to create it.</description>
@@ -73,51 +117,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe</guid>
       <dc:date>2026-09-18T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>SaaS platforms are surging despite the SaaSpocalypse</title>
-      <link>https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse</link>
-      <description>The SaaSpocalypse was a useful warning for the software industry, but SaaS platforms that help businesses run core operations are more deeply embedded. New platform businesses on Stripe are up 182% year over year.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4eii8vuv5rIus0HNvlMEs6/1f5a15bc4f8dca9c66bec691f507befb/Specs__1250x1250px_with_100_padding_2x.png"
-        length="122383"
-        type="image/png"/>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse</guid>
-      <dc:date>2026-09-17T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>What Stripe data shows about fraud at AI startups</title>
-      <link>https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups</link>
-      <description>We analyzed attempted fraud rates and customer abuse patterns on Stripe over the past year and found that AI companies faced 4.3x more fraud attempts than startups overall in Q3 2025. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/4RzPleRe5QheYPTOGMyzYe/6655f5d1499d7030e5b51fe5720d9a65/final-index.jpg"
-        length="525043"
-        type="image/jpeg"/>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups</guid>
-      <dc:date>2026-09-15T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Five monetization trends from global pricing leaders </title>
-      <link>https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders</link>
-      <description>As AI transforms software economics, the standard revenue playbook is breaking down. Learn how leaders around the world are preparing for agent buyers, updating processes for faster pricing iteration, and building more flexible infrastructure.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/7AILd6YY3INBk4QCI4LaTx/1842bb0154e43c182f1c26a8cf7f8a4e/Monitization_trends_index.png"
-        length="1074923"
-        type="image/png"/>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders</guid>
-      <dc:date>2026-08-20T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Why global workers are driving demand for stablecoin payouts</title>
-      <link>https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts</link>
-      <description>Platforms like DoorDash, Meta, and Deel already enable stablecoin payouts for global workers. We surveyed 2,300 workers in 20 countries to see what's driving stablecoin demand, where the opportunity is highest, and how other platforms can adapt.
-</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/wRqifAA3sZ1z3kJIX2UKM/8f2619305be2fe7039bf68c26429a8c1/Blog_index_image_1250x1250_2x.png"
-        length="1436546"
-        type="image/png"/>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts</guid>
-      <dc:date>2026-08-19T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
