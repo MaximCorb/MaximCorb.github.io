@@ -67,16 +67,16 @@
     "releases_url": "https://api.github.com/repos/stripe/stripe-node/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stripe/stripe-node/deployments",
     "created_at": "2011-09-28T00:28:33Z",
-    "updated_at": "2026-10-17T17:24:48Z",
-    "pushed_at": "2026-10-19T14:52:10Z",
+    "updated_at": "2026-10-25T21:19:27Z",
+    "pushed_at": "2026-10-24T17:44:57Z",
     "git_url": "git://github.com/stripe/stripe-node.git",
     "ssh_url": "org-856813@github.com:stripe/stripe-node.git",
     "clone_url": "https://github.com/stripe/stripe-node.git",
     "svn_url": "https://github.com/stripe/stripe-node",
     "homepage": "https://stripe.com",
-    "size": 44461,
-    "stargazers_count": 4531,
-    "watchers_count": 4531,
+    "size": 45056,
+    "stargazers_count": 4541,
+    "watchers_count": 4541,
     "language": "TypeScript",
     "has_issues": true,
     "has_projects": false,
@@ -84,11 +84,11 @@
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": true,
-    "forks_count": 940,
+    "forks_count": 944,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 50,
+    "open_issues_count": 48,
     "license": {
       "key": "mit",
       "name": "MIT License",
@@ -106,9 +106,9 @@
       "stripe-sdk"
     ],
     "visibility": "public",
-    "forks": 940,
-    "open_issues": 50,
-    "watchers": 4531,
+    "forks": 944,
+    "open_issues": 48,
+    "watchers": 4541,
     "default_branch": "master",
     "temp_clone_token": null,
     "custom_properties": {
@@ -137,35 +137,34 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "network_count": 940,
+    "network_count": 944,
     "subscribers_count": 88
   },
   "comparaison": [
     {
       "nom": "stripe-node",
       "repo": "stripe/stripe-node",
-      "stars": 4531,
-      "forks": 940,
-      "issues": 50
+      "stars": 4541,
+      "forks": 944,
+      "issues": 48
     },
     {
       "nom": "PayPal-PHP-SDK",
       "repo": "paypal/PayPal-PHP-SDK",
       "stars": 41,
-      "forks": 132,
+      "forks": 131,
       "issues": 20
     },
     {
       "nom": "mollie-api-php",
       "repo": "mollie/mollie-api-php",
-      "stars": 606,
+      "stars": 605,
       "forks": 199,
       "issues": 1
     }
   ],
   "commits": {
     "all": [
-      0,
       6,
       5,
       4,
@@ -216,6 +215,7 @@
       6,
       15,
       0,
+      4,
       4
     ],
     "owner": [
@@ -274,48 +274,48 @@
     ]
   },
   "release": {
-    "url": "https://api.github.com/repos/stripe/stripe-node/releases/400547914",
-    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/400547914/assets",
-    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/400547914/assets{?name,label}",
-    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v23.0.0",
-    "id": 400547914,
+    "url": "https://api.github.com/repos/stripe/stripe-node/releases/421040685",
+    "assets_url": "https://api.github.com/repos/stripe/stripe-node/releases/421040685/assets",
+    "upload_url": "https://uploads.github.com/repos/stripe/stripe-node/releases/421040685/assets{?name,label}",
+    "html_url": "https://github.com/stripe/stripe-node/releases/tag/v23.0.1",
+    "id": 421040685,
     "author": {
-      "login": "jar-stripe",
-      "id": 179854761,
-      "node_id": "U_kgDOCrhdqQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/179854761?v=4",
+      "login": "zacchua-stripe",
+      "id": 235813349,
+      "node_id": "U_kgDODg455Q",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235813349?v=4",
       "gravatar_id": "",
-      "url": "https://api.github.com/users/jar-stripe",
-      "html_url": "https://github.com/jar-stripe",
-      "followers_url": "https://api.github.com/users/jar-stripe/followers",
-      "following_url": "https://api.github.com/users/jar-stripe/following{/other_user}",
-      "gists_url": "https://api.github.com/users/jar-stripe/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/jar-stripe/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/jar-stripe/subscriptions",
-      "organizations_url": "https://api.github.com/users/jar-stripe/orgs",
-      "repos_url": "https://api.github.com/users/jar-stripe/repos",
-      "events_url": "https://api.github.com/users/jar-stripe/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/jar-stripe/received_events",
+      "url": "https://api.github.com/users/zacchua-stripe",
+      "html_url": "https://github.com/zacchua-stripe",
+      "followers_url": "https://api.github.com/users/zacchua-stripe/followers",
+      "following_url": "https://api.github.com/users/zacchua-stripe/following{/other_user}",
+      "gists_url": "https://api.github.com/users/zacchua-stripe/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/zacchua-stripe/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/zacchua-stripe/subscriptions",
+      "organizations_url": "https://api.github.com/users/zacchua-stripe/orgs",
+      "repos_url": "https://api.github.com/users/zacchua-stripe/repos",
+      "events_url": "https://api.github.com/users/zacchua-stripe/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/zacchua-stripe/received_events",
       "type": "User",
       "user_view_type": "public",
       "site_admin": false
     },
-    "node_id": "RE_kwDOACW3fM4X3-BK",
-    "tag_name": "v23.0.0",
+    "node_id": "RE_kwDOACW3fM4ZGJIt",
+    "tag_name": "v23.0.1",
     "target_commitish": "master",
-    "name": "v23.0.0",
+    "name": "v23.0.1",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-10-01T00:45:36Z",
-    "updated_at": "2026-10-01T00:45:42Z",
-    "published_at": "2026-10-01T00:45:42Z",
+    "created_at": "2026-10-22T16:59:07Z",
+    "updated_at": "2026-10-22T18:06:33Z",
+    "published_at": "2026-10-22T18:06:33Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v23.0.0",
-    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v23.0.0",
-    "body": "See [the changelog](https://github.com/stripe/stripe-node/blob/master/CHANGELOG.md#23-0-0) for the full release notes."
+    "tarball_url": "https://api.github.com/repos/stripe/stripe-node/tarball/v23.0.1",
+    "zipball_url": "https://api.github.com/repos/stripe/stripe-node/zipball/v23.0.1",
+    "body": "See [the changelog](https://github.com/stripe/stripe-node/blob/master/CHANGELOG.md#23-0-1) for the full release notes."
   },
   "meta": {
-    "derniere_maj": "2026-10-19T15:17:12Z"
+    "derniere_maj": "2026-10-26T14:51:11Z"
   }
 }
