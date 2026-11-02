@@ -9,6 +9,28 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts</title>
+      <link>https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts</link>
+      <description>In early 2026, we began moving our vendor payments to Global Payouts, Stripe’s product for paying recipients in 160+ countries. New-market setup fell from six weeks to one, with a 99.9% payout success rate. Here’s what we learned.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1x8frf1UltiAXw1qMcAwix/13d61cb5340a488872e3d5603542a973/Index_image__appears_on_the_blog_index_page_._Specs__1250x1250px_with_padding.jpg"
+        length="432628"
+        type="image/jpeg"/>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts</guid>
+      <dc:date>2026-10-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>How the fastest-growing enterprises on Stripe scale globally</title>
+      <link>https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally</link>
+      <description>Despite slower global economic growth and greater geopolitical fragmentation, the fastest-growing enterprises continue to look beyond their home markets and are investing in tools and workflows that make expansion faster and more repeatable.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/21c4x9WtPapHdlzus7DrLH/44290482640b8f21eafc45f3857210b1/1250x1250.png"
+        length="982109"
+        type="image/png"/>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally</guid>
+      <dc:date>2026-10-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Trends from Money20/20 2026: The rise of “hidden” financial services </title>
       <link>https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services</link>
       <description>As fintech products become increasingly capable, the infrastructure behind them fades into the background. Three trends from Money20/20 show how stablecoins, agents, and always-on money are changing financial services. </description>
@@ -95,28 +117,6 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link</guid>
       <dc:date>2026-09-29T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Travel’s AI dilemma at Skift Global Forum</title>
-      <link>https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum</link>
-      <description>At the “great recalibration”-themed travel conference, Airbnb CEO Brian Chesky called AI “an existential risk” to his company and “literally the best thing to ever happen” to it in the same discussion. That sums up many travel leaders’ push-and-pull relationship with AI. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/42kKrzG4TiYUHyP5JqyTs4/92838da218c78955c0aad7542467a3e8/01_Index-1.png"
-        length="1593353"
-        type="image/png"/>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum</guid>
-      <dc:date>2026-09-28T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>New trends in global card fraud: How 3D Secure and regional mandates are affecting risk </title>
-      <link>https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk</link>
-      <description>We analyzed billions of transactions on Stripe from January 2022 to March 2026 to understand how card fraud patterns differ by region and country, what's driving those differences, and how businesses can respond. </description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1Ttw18lQFBzxo2wuqd2XlA/bbac418ecc8be77df011264faeb15b0f/regional-index.jpg"
-        length="2235582"
-        type="image/jpeg"/>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk</guid>
-      <dc:date>2026-09-22T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
