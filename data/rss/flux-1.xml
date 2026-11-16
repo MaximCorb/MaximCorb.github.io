@@ -9,6 +9,17 @@
     <link>https://stripe.com/blog</link>
     <description>The Stripe Blog</description>
     <item>
+      <title>Analyze your Stripe data directly with your agent </title>
+      <link>https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent</link>
+      <description>You can now use natural language to create an investor slide deck highlighting where your business outperformed in the previous quarter, or build a custom dashboard to understand why your Stripe revenue changed.</description>
+      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/1kTCeRYmJdq4abWCeuLLlx/69b9bad3105952e65ae48d48286db95b/index-crop.jpg"
+        length="644590"
+        type="image/jpeg"/>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent</guid>
+      <dc:date>2026-11-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
       <title>Stripe on Stripe: What we learned moving $1B in vendor payments to Global Payouts</title>
       <link>https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts</link>
       <description>In early 2026, we began moving our vendor payments to Global Payouts, Stripe’s product for paying recipients in 160+ countries. New-market setup fell from six weeks to one, with a 99.9% payout success rate. Here’s what we learned.</description>
@@ -106,17 +117,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://stripe.com/blog/ousd-now-live-on-stripe</guid>
       <dc:date>2026-09-30T00:00:00+00:00</dc:date>
-    </item>
-    <item>
-      <title>Helping personal agents shop more intelligently and reliably with Link </title>
-      <link>https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link</link>
-      <description>As agents take on more purchases, agent builders have increasingly asked us to help agents navigate checkout and earn consumer trust. Today, we’re sharing three major improvements to support this broader set of needs.</description>
-      <enclosure url="https://images.ctfassets.net/fzn2n1nzq965/259tRMFUDzwXlrETBMQId4/a6af0d366e1e601e70b52c7f071fa007/index-5.png"
-        length="554943"
-        type="image/png"/>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link</guid>
-      <dc:date>2026-09-29T00:00:00+00:00</dc:date>
     </item>
   </channel>
 </rss>
